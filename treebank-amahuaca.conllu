@@ -1,0 +1,2399 @@
+# sent_id = 1-amc-candy 
+# oracion = Mishito chahonmun Paco ratuukihnu.
+# trs_spa = La gata negra asustó a Paco.
+1	mishito	_	NOUN	_	_	6	nsubj	6:nsubj	gato
+2	chaho	_	ADJ	_	_	1	amod	1:amod	negro
+3	=n	_	PART	_	_	1	case	1:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	Paco	_	PROPN	_	_	6	obj	6:obj	Paco.O
+6	ratuu	_	VERB	_	_	0	root	0:root	asustar
+7	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	 .	_	PUNCT	_	_	6	punct	6:punct	 _
+
+# sent_id = 2-amc-candy 
+# oracion = Iyanmun un vakuvo atapa taká jiríkuhnu.
+# trs_spa = Yo le dí de comer hígado de pollo al niño.
+1	iya	_	PRON	_	_	8	nsubj	8:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	8	aux:valid 	8:aux:valid 	=FOC
+4	un	_	PRON	_	_	8	nsubj:copy	8:nsubj:copy	1SG.NOM
+5	vakuvo	_	NOUN	_	_	8	obj	8:obj	niño.O
+6	atapa	_	NOUN	_	_	7	nmod	7:nmod	gallina
+7	taka	_	NOUN	_	_	8	obj	8:obj	hígado.O 
+8	jiri	_	VERB	_	_	0	root	0:root	dar.de.comer
+9	=ku	_	PART	_	_	8	aux:pst.1/2	8:aux:pst.1/2	=PST.1/2
+10	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+11	.	_	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 3-amc-candy 
+# oracion = Iyax nashitanon, iya jabon inanpu! 
+# trs_spa = ¡Voy a bañarme, dame el jabón!
+1	iya 	_	PRON	_	_	3	nsubj	3:nsubj	1SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	nashi	_	VERB	_	_	9	advcl	9:advcl	bañar
+4	=tan	_	PART	_	_	3	aux:go.and.do	3:aux:go.and.do	=GO.AND.DO
+5	=non	_	PART	_	_	3	aux:prop	3:aux:prop	=PROP
+6	,	_	PUNCT	_	_	3	punct	3:punct	,
+7	iya	_	PRON	_	_	9	obj 	9:obj 	1SG.O
+8	jabon	_	NOUN	_	_	9	obj	9:obj	jabón.O
+9	inan	_	VERB	_	_	0	root	0:root	dar
+10	=pu	_	PART	_	_	9	aux:imp.m 	9:aux:imp.m 	=IMP.M
+11	!	_	PUNCT	_	_	9	punct	9:punct	 _
+
+# sent_id = 4_amc_candy
+# oracion = Shanopanmun tuxaxohnu.
+# trs_spa = El jergón lo mordió. 
+1	shanopa	_	NOUN	_	_	4	nsubj	4:nsubj	jergón.largo
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	tuxa	_	VERB	_	_	0	root	0:root	morder
+5	=xo	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 5-amc-candy
+# oracion = Nan tapazra matona?
+# trs_spa = ¿Esta casa es de ustedes?
+1	nan	_	DET	_	_	2	det	2:det	esta
+2	tapaz	_	NOUN	_	_	4	nsubj	4:nsubj	casa.S
+3	=ra	_	PART	_	_	4	aux:int	4:aux:int	=INT
+4	matona	_	ADJ	_	_	0	root	0:root	2PL.POSS
+5	?	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 6-amc-candy
+# oracion = Iyaxmun un nihimuran jonukuhnu.
+# trs_spa = Me escondí en el monte.
+1	iya	_	PRON	_	_	7	nsubj	7:nsubj	1SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	un	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	1sg.NOM
+5	nihi	_	NOUN	_	_	7	obl:loc	7:obl:loc	monte
+6	=muran	_	ADP	_	_	6	case	6:case	=INESSIVE
+7	jonu	_	VERB	_	_	0	root	0:root	esconder
+8	=ku	_	PART	_	_	7	aux:pst.1/2	7:aux:pst.1/2	=PST.1/2
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 7-amc-candy
+# oracion = Iyanmun un vaku tzahonkuhnu tzahootínin.
+# trs_spa = Yo senté al niño en la banca. 
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	un	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	1SG.NOM
+5	vaku	_	NOUN	_	_	6	obj	6:obj	niño
+6	tzahon	_	VERB	_	_	0	root	0:root	sentar
+7	=ku	_	PART	_	_	6	aux:pst.1/2	7:aux:pst.1/2	=PST.1/2
+8	=nu	_	PART	_	_	6	aux:decl	7:aux:decl	=DECL
+9	tzahoti	_	NOUN	_	_	6	obl	6:obl	asiento
+10	=nin	_	PART	_	_	9	case	9:case	=LOC
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 8-amc-candy
+# oracion = Jatokimun rakuhi vakuvokinu. 
+# trs_spa = Los niños les temen. 
+1	jato	_	PRON	_	_	4	obl	4:obl	3PL
+2	=ki	_	PART	_	_	1	case	1:case	=OBL
+3	=mun	_	PART	_	_	4	aux:valid	7:aux:valid	=FOC
+4	raku	_	VERB	_	_	0	root	0:root	temer
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	vakuvo	_	NOUN	_	_	4	nsubj	4:nsubj	niños.NOM
+7	=ki	_	PART	_	_	4	aux:act2/3	4:aux:act2/3	=ACT.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 9-amc-candy
+# oracion = Tzovaxrá nokohi?
+# trs_spa = ¿Quién ha llegado?
+1	tzova	_	PINT	_	_	4	nsubj	4:nsubj	quién
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=ra	_	PART	_	_	4	aux:int	4:aux:int	=INT
+4	noko	_	VERB	_	_	0	root	0:root	llegar
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 10-amc-candy
+# oracion = Mihanmun mapí jovahkinu. 
+# trs_spa = Tu mamá está cocinando camarones. 
+1	miha	_	NOUN	_	_	5	nsubj	5:nsubj	tu.madre
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	mapi	_	NOUN	_	_	5	obj	5:obj	camarones.O
+5	jova	_	VERB	_	_	0	root	0:root	cocinar
+6	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 11-amc-candy
+# oracion = Nan vakunmun jaha ikoohihkinu.
+# trs_spa = Este niño está abrazando a su mamá. 
+1	nan	_	DET	_	_	2	det	2:det	este
+2	vaku	_	NOUN	_	_	6	nsubj	6:nsubj	niño
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	jaha	_	NOUN	_	_	6	obj	6:obj	su.mamá.O
+6	ikoo	_	VERB	_	_	0	root	0:root	abrazar
+7	=hi	_	PART	_	_	6	aux:ipfv	6:aux:ipfv	=IPFV
+8	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 12-amc-candy
+# oracion = Min mipanmun miya kunakihnu.
+# trs_spa = Tu padre te está llamando. 
+1	min	_	DET	_	_	2	det	2:det	2SG.POSS
+2	mipa	_	NOUN	_	_	6	nsubj	6:nsubj	tu.padre
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	miya	_	PRON	_	_	6	obj	6:obj	2SG.O
+6	kuna	_	VERB	_	_	0	root	0:root	llamar
+7	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 13-amc-candy
+# oracion = Jaton jahan oyohi vakumaxkinu.
+# trs_spa = Los bebés están chupando los pechos de sus madres. 
+1	jaton	_	DET	_	_	2	det	2:det	3PL.POSS
+2	jaha	_	NOUN	_	_	4	nmod	4:nmod	sus.madres.O
+3	=n	_	PART	_	_	2	case	2:case	=GEN
+4	chocho	_	NOUN	_	_	6	obj	6:obj	senos
+5	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+6	oyo	_	VERB	_	_	0	root	0:root	chupar
+7	=hi	_	PART	_	_	6	aux:ipfv	6:aux:ipfv	=IPFV
+8	vaku	_	NOUN	_	_	6	nsubj	6:nsubj	niño
+9	maxko	_	ADJ	_	_	8	compound	8:compound	pequeño
+10	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+11	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 14-amc-candy
+# oracion = Uvujaha joxomun un jirikuhku.
+# trs_spa = Mi pareja vino y le di de comer. 
+1	uvujaha	_	NOUN	_	_	2	nsubj	2:nsubj	pareja.S
+2	jo	_	VERB	_	_	6	advcl	5:advcl	venir
+3	=xo	_	PART	_	_	2	aux.prev.s>o	2:aux.prev.s>o	=PREV.S>O
+4	=mun	_	PART	_	_	6	aux:valid	5:aux:valid	=FOC
+5	un	_	PRON	_	_	6	nsubj	5:nsubj	1SG.NOM
+6	jiri	_	VERB	_	_	0	root	0:root	comer
+7	=ku	_	PART	_	_	6	aux:pst.1/2	5:aux:pst.1/2	=PST.1/2
+8	=ku	_	PART	_	_	6	aux:decl	5:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 15-amc-candy
+# oracion = Nishvininmun iya mutuuxohnu.
+# trs_spa = La avispa me picó.
+1	nishvin	_	NOUN	_	_	5	nsubj	5:nsubj	avispa
+2	=in	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	iya	_	PRON	_	_	5	obj	5:obj	1SG.O
+5	mutuu	_	VERB	_	_	0	root	0:root	picar
+6	=ki	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 16-amc-candy
+# oracion = Tapaztzajarimun kahi unkanu. 
+# trs_spa = Voy a la otra casa. 
+1	tapaztza	_	NOUN	_	_	4	obl:loc	4:obl:loc	otra.casa
+2	=jari	_	ADP	_	_	1	case	1:case	=HASTA
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	ka	_	VERB	_	_	0	root	0:root	ir
+5	=hi	_	PART	_	_	4	aux:ipfv	5:aux:ipfv	=IPFV
+6	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG.S
+7	=ka	_	PART	_	_	4	aux:act.1	4:aux:act.1	=ACT.1
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 17-amc-candy
+# oracion = Jonimun oxuaxkihnu. 
+# trs_spa = El hombre se convirtió en luna. 
+1	joni	_	NOUN	_	_	3	nsubj	3:subj	hombre.S
+2	=mun	_	PART	_	_	3	aux:valid	3:aux:valid	=FOC
+3	oxu	_	VERB	_	_	0	root	0:root	convertirse.en.luna
+4	=ax	_	PART	_	_	3	aux:pst.pf	3:aux:pst.pf	=PST.PF
+5	=ki	_	PART	_	_	3	aux:act.2/3	3:aux:act.2/3	=ACT.2/3
+6	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 18-amc-candy
+# oracion = Joninmun jonitza tukuuxohnu.
+# trs_spa = El hombre le ha dislocado a otro hombre. 
+1	joni	_	NOUN	_	_	5	nsubj	5:nsubj	hombre
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	jonitza	_	NOUN	_	_	5	obj	5:obj	hombre.O
+5	tukuu	_	VERB	_	_	0	root	0:root	dislocar
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 19-amc-candy
+# oracion = Joninmun tapaz juruuxohnu. 
+# trs_spa = El hombre ha quemado la casa. 
+1	joni	_	NOUN	_	_	5	nsubj	5:nsubj	hombre
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	tapaz	_	NOUN	_	_	5	obj	5:obj	casa.O
+5	juruu	_	VERB	_	_	0	root	0:root	quemar
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 20-amc-candy
+# oracion = Iyanmun un nontikuhnu.
+# trs_spa = Yo hice una canoa. 
+1	iya	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	un	_	PRON	_	_	5	nsubj:copy	5:nsubj:copy	1SG
+5	nonti	_	VERB	_	_	0	root	0:root	hacer.canoa
+6	=ku	_	PART	_	_	5	aux:pst.1/2	5:aux:pst.1/2	=PST.1/2
+7	=nu	_	PART	_	_	5	aux:decl	5:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 21-amc-candy
+# oracion = Iyanmun un xapo xontuxkuhnu.
+# trs_spa = Yo despepé el algodón. 
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	un	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	1SG.NOM
+5	xapo	_	NOUN	_	_	6	obj	6:obj	algodón.O
+6	xontux	_	VERB	_	_	0	root	0:root	despepar
+7	=ku	_	PART	_	_	6	aux:pst.1/2	6:aux:pst.1/2	=PST.1/2
+8	=nu	_	PART	_	_	6	aux:decl	6:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 22-amc-candy
+# oracion = Iyanmun un vinpankuhnu komanha rutuxahnkin.
+# trs_spa = Yo hice un maspute para matar yuto (perdiz azul)
+1	iya	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	un	_	PRON	_	_	5	nsubj:copy	5:nsubj:copy	1SG.NOM
+5	vinpan	_	VERB	_	_	0	root	0:root	hacer.maspute
+6	=ku	_	PART	_	_	5	aux:pst.1/2	5:aux:pst.1/2	=PST.1/2
+7	=nu	_	PART	_	_	5	aux:decl	5:decl	=DECL
+8	komanha	_	NOUN	_	_	9	obj	9:obj	yuto.O
+9	rutu	_	VERB	_	_	5	advcl	5:advcl	para.matar
+10	=xahnkin	_	PART	_	_	9	aux:purp	9:aux:purp	=PURP.S/A>A
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 23_amc_candy
+# oracion = Joni Liman jahatonmun nontiyamahikihnu.
+# trs_spa = Los hombres que viven en Lima no hacen canoa. 
+1	joni	_	NOUN	_	_	8	nsubj	8:nsubj	hombres
+2	Lima	_	PROPN	_	_	4	obl:loc	4:obl:loc	Lima
+3	=n	_	PART	_	_	2	case	2:case	=LOC
+4	ja	_	VERB	_	_	1	acl:relcl	1:acl:relcl	vivir
+5	=ha	_	PART	_	_	4	aux:prtc	4:aux:prtc	=PRTC
+6	=ton	_	PART	_	_	1	case	1:case	=A
+7	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+8	nonti	_	VERB	_	_	0	root	0:root	hacer.canoa
+9	=yama	_	PART	_	_	8	aux:neg	8:aux:neg	=NEG
+10	=hi	_	PART	_	_	8	aux:ipfv	8:aux:ipfv	=IPFV
+11	=ki	_	PART	_	_	8	aux:act.2/3	8:aux:act.2/3	=ACT.2/3
+12	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+13	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 24-amc-candy
+# oracion = Un povimun chaihnu, un vutzarokonmun torohki.
+# trs_spa = Mi hermana es alta; en cambio, mi hermano es bajo.
+1	un	_	DET	_	_	2	det	2:det	1SG.POSS
+2	povi	_	NOUN	_	_	4	nsubj	4:nsubj	hermana
+3	=mun	_	PART	_	_	4	aux:valid	4:auxvalid	=FOC
+4	chai	_	ADJ	_	_	0	root	0:root	alta
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	,	_	PUNCT	_	_	11	punct	_	_
+7	un	_	DET	_	_	8	det	8:det	1SG.POSS
+8	vutza	_	NOUN	_	_	11	nsubj	11:nsubj	hermano
+9	=rokon	_	CONJ	_	_	11	cc:advs	11:cc:advs	=BUT
+10	=mun	_	PART	_	_	11	aux:valid	11:auxvalid	=FOC
+11	toro	_	ADJ	_	_	4	conj	4:conj	bajo
+12	=ki	_	PART	_	_	11	aux:decl	11:aux:decl	=DECL
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 25-amc-candy
+# oracion = Nahinmun nihimuran janoxkihnu. Paxnaxmun janhkiki.
+# trs_spa = El pelejo vive en el monte. Es (un animal) sonsito. 
+1	nahin	_	NOUN	_	_	5	nsubj	5:nsubj	pelejo.S
+2	=mun	_	PART	_	_	5	aux:valid	5:auxvalid	=FOC
+3	nihi	_	NOUN	_	_	5	obl:loc	5:obl:loc	monte
+4	=muran	_	ADP	_	_	3	case	3:case	=INESS
+5	ja	_	VERB	_	_	0	root	0:root	vivir
+6	=nox	_	PART	_	_	5	aux:hab	5:aux:hab	=HAB
+7	=ki	_	PART	_	_	5	aux:act.2/3	5:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	5	aux:decl	5:decl	=DECL
+9	.	_	PUNCT	_	_	10	punct	_	_
+10	paxnax	_	ADJ	_	_	5	conj	5:conj	lento
+11	=mun	_	PART	_	_	10	aux:valid	10:auxvalid	=FOC
+12	jan	_	PRON	_	_	10	nsubj	10:nsubj	3SG.NOM
+13	=ki	_	PART	_	_	10	aux:act.2/3	10:act.2/3	=ACT.2/3
+14	=ki	_	PART	_	_	10	aux:decl	10:decl	=DECL
+15	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 26-amc-candy
+# oracion = Joni xuni xuntomun nami pinikoyamahikihnu.
+# trs_spa = El pobre viejo sin dientes no come carne. 
+1	joni	_	NOUN	_	_	6	nsubj	6:nsubj	hombre
+2	xuni	_	NOUN	_	_	1	compound	1:compound	viejo
+3	xunto	_	ADJ	_	_	1	amod	1:amod	viejo
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	nami	_	NOUN	_	_	6	obj	6:obj	carne.O
+6	pi	_	VERB	_	_	0	root	0:root	comer
+7	=niko	_	PART	_	_	1	discourse	1:discourse	=DEAR
+8	=yama	_	PART	_	_	6	aux:neg	6:aux:neg	=NEG
+9	=hi	_	PART	_	_	6	aux:ipfv	6:aux:ipfv	=IPFV
+10	=ki	_	PART	_	_	6	aux:pres.2/3	6:aux:pres.2/3	=PRES.2/3
+11	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 27-amc-candy
+# oracion = Voo chaii sharaayamun nonhnu. 
+# trs_spa = Nosotros tenemos el cabello bastante largo. 
+1	voo	_	NOUN	_	_	0	root	0:root	cabello
+2	chai	_	ADJ	_	_	1	amod	1:amod	largo
+3	=sharaa	_	ADV	_	_	2	advmod	2:advmod	=bonitamente
+4	=ya	_	PART	_	_	1	case	1:case	=PROP
+5	=mun	_	PART	_	_	1	aux:valid	1:aux:valid	=FOC
+6	non	_	PRON	_	_	1	nsubj	1:nsubj	1PL.NOM
+7	=nu	_	PART	_	_	1	aux:decl	1:aux:decl	=DECL
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28-amc-candy
+# oracion = Ainmahizmun chamihnu. 
+# trs_spa = Mi hermano menor es soltero. 
+1	ain	_	NOUN	_	_	0	root	0:root	mujer
+2	=mahiz	_	PART	_	_	1	case	1:case	=PRIV
+3	=mun	_	PART	_	_	1	aux:valid	1:aux:valid	=FOC
+4	chami	_	NOUN	_	_	1	nsubj	1:nsubj	hermano.menor
+5	=nu	_	PART	_	_	1	aux:decl	1:aux:decl	=DECL
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29-amc-candy
+# oracion = Mokamamun naanvimihnu. Vatasharaamunhki.
+# trs_spa = Las papayas no son amargas, son muy dulces.
+1	moka	_	ADJ	_	_	0	root	0:root	amarga
+2	=ma	_	PART	_	_	1	aux:neg	1:aux:neg	=NEG
+3	=mun	_	PART	_	_	1	aux:valid	1:aux:valid	=FOC
+4	naan	_	ADJ	_	_	5	amod	5:amod	del.mestizo
+5	vimi	_	NOUN	_	_	1	nsubj	1:nsubj	fruto
+6	=nu	_	PART	_	_	1	aux:decl	1:aux:decl	=DECL
+7	.	_	PUNCT	_	_	8	punct	_	_
+8	vata	_	ADJ	_	_	1	conj	1:conj	dulce
+9	=sharaa	_	PART	_	_	8	aux:intens	8:aux:intens	=INTENS
+10	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+11	=ki	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+12	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 30-amc-candy
+# oracion = Chichikamun kunosharaahnu.
+# trs_spa = El cuchillo es muy filoso.
+1	chichika	_	NOUN	_	_	3	nsubj	3:nsubj	cuchillo
+2	=mun	_	PART	_	_	3	aux:valid	3:aux:valid	=FOC
+3	kuno	_	ADJ	_	_	0	root	0:root	filoso
+4	=sharaa	_	ADV	_	_	3	advmod	3:advmod	=INTENS
+5	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 31-amc-candy
+# oracion = Nan jau jovamun sharaakovinhnu.
+# trs_spa = Esta flor es muy bonita.
+1	nan	_	DET	_	_	3	det	3:det	este
+2	jau	_	NOUN	_	_	3	nmod	3:nmod	qué
+3	jova	_	NOUN	_	_	5	nsubj	5:nsubj	flor.S
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	sharaa	_	ADJ	_	_	0	root	0:root	filoso
+6	=kovin	_	ADV	_	_	5	advmod	5:advmod	=INTENS
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 32-amc-candy
+# oracion = Panzitimamun mukiyovaaki.
+# trs_spa = Panzitima es un buen mitayero.
+1	Panzitima	_	PROPN	_	_	3	nsubj	3:nsubj	Panzitima
+2	=mun	_	PART	_	_	3	aux:valid	3:aux:valid	=FOC
+3	muki	_	ADJ	_	_	0	root	0:root	mitayero
+4	=yovaa	_	ADV	_	_	3	advmod	3:advmod	=INTENS
+5	=ki	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 33-amc-candy
+# oracion = Jaanmun jan alambre muztunxohnu.
+# trs_spa = Él enderezó el alambre.
+1	jaa	_	PRON	_	_	6	nsubj	6:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jan	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	3SG.NOM
+5	alambre	_	NOUN	_	_	6	obj	6:obj	alambre
+6	muztun	_	VERB	_	_	0	root	0:root	enderezar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34-amc-candy
+# oracion = Candynmun izo junu yohoxohnu.
+# trs_spa = Candy ha entibiado el caldo de maquisapa.
+1	Candy	_	PROPN	_	_	6	nsubj	6:nsubj	Candy
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	izo	_	NOUN	_	_	5	nmod	5:nmod	maquisapa
+5	junu	_	NOUN	_	_	6	obj	6:obj	caldo.O
+6	yoho	_	VERB	_	_	0	root	0:root	entibiar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 35-amc-candy
+# oracion = Iyanmun un café itziz ayakuhnu.
+# trs_spa = Yo tomé café caliente. 
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	un	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	1SG.NOM
+4	cafe	_	NOUN	_	_	6	obj	6:obj	cafe.O
+5	itziz	_	ADJ	_	_	4	amod	4:amod	caliente
+6	aya	_	VERB	_	_	0	root	0:root	tomar
+7	=ku	_	PART	_	_	6	aux:pst.1/2	6:aux:pst.1/2	=PST.1/2
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 36_amc_candy
+# oracion = Junu vúxnupánmun inó júnumúranyamáxóhnu.
+# trs_spa = El perro no se ahogó en las aguas poco profundas.
+1	junu	_	NOUN	_	_	6	obl	6:obl	agua
+2	vuxnupa	_	ADJ	_	_	1	amod	1:amod	profunda
+3	=n	_	PART	_	_	2	case	2:case	=LOC
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	ino	_	NOUN	_	_	6	nsubj	6:nsubj	perro.S
+6	junumuran	_	VERB	_	_	0	root	0:root	ahogarse
+7	=yama	_	PART	_	_	6	aux:neg	6:aux:neg	=NEG
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 37_amc_candy
+# oracion = Iyanmun un Candy voo chahoxonkuhnu.
+# trs_spa = Yo le ennegrecí el pelo a Candy.
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	un	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	1SG.NOM
+4	Candy	_	PROPN	_	_	6	obj	6:obj	Candy
+5	voo	_	NOUN	_	_	6	obj	6:obj	cabello
+6	chaho	_	VERB	_	_	0	root	0:root	ennegrecer
+7	=xon	_	PART	_	_	6	aux:ben.appl	6:aux:ben.appl	=BEN.APPL
+8	=ku	_	PART	_	_	6	aux:pst.1/2	6:aux:pst.1/2	=PST.1/2
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 38-amc-candy
+# oracion = Nahin muntzizmun kunohnu.
+# trs_spa = Las garras del pelejo son filudas.
+1	nahin	_	NOUN	_	_	2	nmod	2:nmod	pelejo
+2	muntziz	_	NOUN	_	_	4	nsubj	4:nsubj	garras.S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	kuno	_	ADJ	_	_	0	root	0:root	filudas
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 39-amc-candy
+# oracion = Jonivaumun jii xatuhikankihnu.
+# trs_spa = Los hombres asierran los árboles.
+1	joni	_	NOUN	_	_	5	nsubj	5:nsubj	hombre
+2	=vaun	_	PART	_	_	1	case	1:case	=A.PL
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	jii	_	NOUN	_	_	5	obj	5:obj	arboles.O
+5	xatu	_	VERB	_	_	0	root	0:root	aserrar
+6	=hi	_	PART	_	_	5	aux:ipfv	5:aux:ipfv	=IPFV
+7	=kan	_	PART	_	_	5	aux:pl	5:aux:pl	=PL
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 40-amc-candy
+# oracion = Vakuvauxmun muhunnahihkinu.
+# trs_spa = Los niños están peleando.
+1	vaku	_	NOUN	_	_	4	nsubj	4:nsubj	niño
+2	=vaux	_	PART	_	_	1	case	1:case	=PL.S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	muhunna	_	VERB	_	_	0	root	0:root	pelear.REC
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	=ki	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41-amc-candy
+# oracion = Vakuvaunmun janzin pihikihnu.
+# trs_spa = Los niños están comiendo paujil
+1	vaku	_	NOUN	_	_	5	nsubj	5:nsubj	niño
+2	=vaun	_	PART	_	_	1	case	1:case	=PL.A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	janzin	_	NOUN	_	_	5	obj	5:obj	paujil.O
+5	pihi	_	VERB	_	_	0	root	0:root	comiendo
+6	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 42-amc-candy
+# oracion = Mohamun xunivo naxohnu.
+# trs_spa = El viejo ya se murió.
+1	moha	_	ADV	_	_	4	advmod	4:advmod	ya
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+3	xunivo	_	NOUN	_	_	4	nsubj	4:nsubj	viejo.S
+4	na	_	VERB	_	_	0	root	0:root	morir
+5	=xo	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43-amc-candy
+# oracion = Nan joni xunimun mankohnu.
+# trs_spa = Este viejo es calvo.
+1	nan	_	DET	_	_	2	det	2:det	este
+2	joni	_	NOUN	_	_	3	nmod	3:nmod	hombre
+3	xuni	_	NOUN	_	_	5	nsubj	5:nsubj	viejo.S
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	manko	_	VERB	_	_	0	root	0:root	calvo
+6	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 44-amc-candy
+# oracion = Tzovanara jaa machito?
+# trs_spa = ¿De quién es ese machete?
+1	tzova	_	DET	_	_	0	root	0:root	este
+2	=na	_	PART	_	_	4	aux:poss.nml	4:aux:poss.nml	=POSS.NML
+3	=ra	_	PART	_	_	4	aux:int	4:aux:int	=INT
+4	jaa	_	DET	_	_	2	det	2:det	este
+5	machito	_	NOUN	_	_	5	nsubj	5:nsubj	machete
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 45-amc-candy
+# oracion = Ova tapazmun aponahnu.
+# trs_spa = Esa casa de allá es del jefe.
+1	ova	_	DET	_	_	2	det	2:det	aquella
+2	tapaz	_	NOUN	_	_	4	nsubj	4:nsubj	casa.S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	apo	_	NOUN	_	_	0	root	0:root	jefe
+5	=na	_	PART	_	_	4	aux:poss.nml	4:aux:poss.nml	=POSS.NML
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 46-amc-candy
+# oracion = Roho tiimun jiin inanixohnu.
+# trs_spa = Un coto se subió al árbol.
+1	roho	_	NOUN	_	_	6	nsubj	6:nsubj	coto.S
+2	tii	_	NUM	_	_	2	nummod	2:nummod	un
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jii	_	NOUN	_	_	6	obl	6:obl	arbol
+5	=n	_	PART	_	_	4	case	4:case	=ALL
+6	ina	_	VERB	_	_	0	root	0:root	subir
+7	=ni	_	PART	_	_	6	aux:rem.pst	6:aux:rem.pst	=REM.PST
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 47-amc-candy
+# oracion = Jan nahanmun ravuu vachi vihi itzaahkinu. 
+# trs_spa = En el nido pone dos huevos el pájaro. 
+1	jan	_	DET	_	_	2	det	2:det	3SG.POSS
+2	naha	_	NOUN	_	_	7	obl	7:obl	nido
+3	=n	_	PART	_	_	2	case	2:case	=LOC
+4	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+5	ravuu	_	NUM	_	_	6	nummod	6:nummod	dos
+6	vachi	_	NOUN	_	_	7	obj	7:obj	huevo.O
+7	vihi	_	VERB	_	_	0	root	0:root	poner.huevo
+8	itza	_	NOUN	_	_	7	nsubj	7:nsubj	pajaro.NOM
+9	=ki	_	PART	_	_	7	aux:pres.2/3	7:aux:pres.2/3	=PRES.2/3
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 48-amc-candy
+# oracion = Máninhá xóhi rávuu iya vúxonvú, uhá.
+# trs_spa = Dame dos plátanos a la parrilla, mamá.
+1	maninha	_	NOUN	_	_	5	obj	5:obj	plátano
+2	xohi	_	NOUN	_	_	1	nmod	1:nmod	asado
+3	ravuu	_	NUM	_	_	1	nummod	1:nummod	dos
+4	iya	_	PRON	_	_	5	obj	5:obj	1SG.O
+5	vu	_	VERB	_	_	0	root	0:root	vivir
+6	=xon	_	PART	_	_	5	aux:ben.appl	6:aux:ben.appl	=BEN.APPL
+7	=vu	_	PART	_	_	5	aux:hab	5:aux:hab	=HAB
+8	uha	_	NOUN	_	_	5	case:voc	5:case:voc	mamá.VOC
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 49-amc-candy
+# oracion = Xaumun icha varixutuu janoxkihnu.
+# trs_spa = El motelo vive muchos años.
+1	xau	_	NOUN	_	_	5	nsubj	5:nsubj	motelo.S
+2	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+3	icha	_	ADV	_	_	4	advmod	4:advmod	muchos
+4	varixutuu	_	NOUN	_	_	5	obl	5:obl	años
+5	ja	_	VERB	_	_	0	root	0:root	vivir
+6	=nox	_	PART	_	_	5	aux:hab	5:aux:hab	=HAB
+7	=ki	_	PART	_	_	5	aux:pres.2/3	5:aux:pres.2/3	=PRES.2/3
+8	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+
+# sent_id = 50-amc-candy
+# oracion = Kiyoo yohinnan taunxkomun ataishkihnu. 
+# trs_spa = Nosotros comemos el riñón de todos los animales cazados. 
+1	kiyoo	_	DET	_	_	4	det	4:det	todo
+2	yohinna	_	NOUN	_	_	4	nmod	4:nmod	animal
+3	=n	_	PART	_	_	2	case	2:case	=GEN
+4	taunxko	_	NOUN	_	_	6	obj	6:obj	hígado.O 
+5	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+6	a	_	VERB	_	_	0	root	0:root	comer
+7	=taish	_	PART	_	_	6	aux:hab	6:aux:hab	=HAB
+8	=ki	_	PART	_	_	6	aux:pres.2/3	6:aux:pres.2/3	=PRES.2/3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+
+# sent_id = 51-amc-candy
+# oracion = Jau izaamun kuokihnu.
+# trs_spa = Algunos tipos de pajaritos cantan.
+1	jau	_	DET	_	_	2	det	2:det	algunos
+2	izaa	_	NOUN	_	_	4	nsubj	4:nsubj	pajaro-S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	kuo	_	VERB	_	_	0	root	0:root	cantar
+5	=ki	_	PART	_	_	4	aux:pres.2/3	4:aux:pres.2/3	=PRES.2/3
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+
+# sent_id = 52-amc-candy
+# oracion = Joninmun aa toha rutujohnu.
+# trs_spa = El hombre mató a una sachavaca grande.
+1	joni	_	NOUN	_	_	6	nsubj	6:nsubj	hombre
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	aa	_	PRON	_	_	6	obj	6:obj	sachavaca
+5	toha	_	ADJ	_	_	4	amod	4:amod	grande
+6	rutu	_	VERB	_	_	0	root	0:root	matar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 53-amc-candy
+# oracion = Joni chantomun koshi kayamahikinu.
+# trs_spa = El hombre cojo no camina rápido.
+1	joni	_	NOUN	_	_	5	nsubj	5:nsubj	hombre.S
+2	chanto	_	ADJ	_	_	1	amod	1:amod	cojo
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	koshi	_	ADV	_	_	5	advmod	5:advmod	rápido
+5	ka	_	VERB	_	_	0	root	0:root	caminar
+6	=yama	_	PART	_	_	5	aux:neg	5:aux:neg	=NEG
+7	=hi	_	PART	_	_	5	aux:ipfv	5:aux:ipfv	=IPFV
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+
+# sent_id = 54-amc-candy
+# oracion = Tanyanx vahinmun jaa pakuukihnu.
+# trs_spa = Él se cayó en el camino resbaloso.
+1	tanyanx	_	ADJ	_	_	2	amod	2:amod	resbaloso
+2	vahi	_	NOUN	_	_	6	obl	6:obl	camino
+3	=n	_	PART	_	_	1	case	1:case	=LOC
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	jaa	_	PRON	_	_	6	nsubj	6:nsubj	3SG.S
+6	pakuu	_	VERB	_	_	0	root	0:root	caerse
+7	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = 55-amc-candy
+# oracion = Machitonmun xachi orohi jonihkinu
+# trs_spa = El hombre está cultivando con el machete.
+1	machito	_	NOUN	_	_	5	obl	5:obl	machete
+2	=n	_	PART	_	_	1	case	1:case	=INST
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	xachi	_	NOUN	_	_	5	obj	5:obj	hierba
+5	oro	_	VERB	_	_	0	root	0:root	cultivar
+6	=hi	_	PART	_	_	5	aux:ipfv	5:aux:ipfv	=IPFV
+7	joni	_	NOUN	_	_	5	nsubj	5:nsubj	hombre.NOM
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+11	.	_	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 56-amc-candy
+# oracion = Joniya jan ainya mauhihkinu tapaz vunakun.
+# trs_spa = El hombre y su esposa se están mudando a una nueva casa.
+1	joni	_	PRON	_	_	6	nsubj	6:nsubj	hombre
+2	=ya	_	PART	_	_	1	case	1:case	=CONM
+3	jan	_	DET	_	_	4	det	4:det	3SG.POSS
+4	ain	_	NOUN	_	_	1	conj	1:conj	esposa
+5	=ya	_	PART	_	_	4	case	4:case	=CONM
+6	mau	_	VERB	_	_	0	root	0:root	mudarse
+7	=hi	_	PART	_	_	6	aux:ipfv	6:aux:ipfv	=IPFV
+8	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	tapaz	_	NOUN	_	_	6	obl	6:obl	casa
+11	vunaku	_	ADJ	_	_	10	amod	10:amod	nuevo
+12	=n	_	PART	_	_	11	case	11:case	=LOC
+13	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 57-amc-candy
+# oracion = Xanonmun mani puhin vain nami kahihkinu.
+# trs_spa = La mujer envuelve súngaro en hojas de bijao.
+1	xano	_	NOUN	_	_	9	nsubj	9:nsubj	shansho
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	9	aux:valid 	9:aux:valid 	=FOC
+4	mani	_	NOUN	_	_	5	nmod	5:nmod	bijao
+5	puhi	_	NOUN	_	_	6	obl	6:obl	hoja
+6	=n	_	PART	_	_	5	case	5:case	=MNS
+7	vain	_	NOUN	_	_	8	nmod	8:nmod	súngaro
+8	nami	_	NOUN	_	_	9	obj	9:obj	carne.O 
+9	ka	_	VERB	_	_	0	root	0:root	envolver
+10	=hi	_	PART	_	_	9	aux:ipfv	9:aux:ipfv	=IPFV
+11	=ki	_	PART	_	_	9	aux:act.2/3	9:aux:act.2/3	=ACT.2/3
+12	=nu	_	PART	_	_	9	aux:decl	9:aux:decl	=DECL
+13	.	_	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = 58-amc-candy
+# oracion = Kamoxonmun un inó iya tuuxanhax naxohnu. 
+# trs_spa = La shushupe mordió a mi perro y se me murió.
+1	kamox	_	NOUN	_	_	7	nsubj	7:nsubj	shushupe
+2	=on	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	un	_	DET	_	_	5	det	5:det	1SG.POSS
+5	ino	_	NOUN	_	_	7	obj	7:obj	perro.O
+6	iya	_	PRON	_	_	10	obj	10:obj	1SG
+7	tuuxa	_	VERB	_	_	0	root	0:root	morder
+8	=n	_	PART	_	_	9	aux:malf	9:aux:malf	=MALF
+9	=hax	_	PART	_	_	5	aux:perf	5:aux:perf	=PERF
+10	na	_	VERB	_	_	7	conj	7:conj	morir
+11	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+12	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+13	.	_	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = 59-amc-candy
+# oracion = Nuxuxunmun xankon puhi akikihnu yamun. 
+# trs_spa = El shansho está comiendo hoja de cetico en la noche.
+1	nuxux	_	NOUN	_	_	6	nsubj	6:nsubj	shansho
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid 	6:aux:valid 	=FOC
+4	xankon	_	NOUN	_	_	5	nmod	5:nmod	cetico
+5	puhi	_	NOUN	_	_	6	obj	6:obj	hoja.O 
+6	aki	_	VERB	_	_	0	root	0:root	comer
+7	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	yamu	_	NOUN	_	_	6	advmod	6:advmod	de.noche
+10	=n	_	PART	_	_	9	case	9:case	=TEMP
+11	.	_	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = 60-amc-candy
+# oracion = Nuxuxuxmun novikainxohnu.
+# trs_spa = El shansho se voló.
+1	nuxux	_	NOUN	_	_	4	nsubj	4:nsubj	shansho
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	4	aux:valid 	4:aux:valid 	=FOC
+4	novi	_	VERB	_	_	0	root	0:root	volarse
+5	=kain	_	PART	_	_	4	aux:and	4:aux:and	=AND
+6	=xo	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 1-amc-candy
+# oracion = Mohapan un potukuuhahnu.
+# trs_spa = Me rompí el brazo
+1	moha	_	ADV	_	_	4	advmod	4:advmod	entonces
+2	=pan	_	PART	_	_	4	aux:emph	4:aux:emph	=EMPH
+3	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG
+4	potukuu	_	VERB	_	_	0	root	0:root	romper.brazo
+5	=ha	_	PART	_	_	4	aux:s/a>s	4:aux:s/a>s	=S/A>S
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2-amc-candy
+# oracion = Janmun jato naha rutunix janhkinu.
+# trs_spa =  Él mató a mucha gente.
+1	ja	_	PRON	_	_	6	nsubj	6:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jato	_	PRON	_	_	6	obj	6:obj	3SG.O
+5	naha	_	ADJ	_	_	4	amod	4:amod	bastante
+6	rutu	_	VERB	_	_	0	root	0:root	matar
+7	=nix	_	PART	_	_	6	aux:prev.s.a>s	6:aux:prev.s.a>s	=PREV.REM.S.A>S
+8	jan	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	3SG.NOM
+9	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3-amc-candy
+# oracion = Janmun jan iya ninkaayamashinxohnu.
+# trs_spa = Ella no me escuchaba.
+1	ja	_	PRON	_	_	6	nsubj	6:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jan	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	3SG.NOM
+5	iya 	_	PRON	_	_	6	obj	6:obj	1SG
+6	ninka	_	VERB	_	_	0	root	0:root	escuchar
+7	=yama	_	PART	_	_	6	aux:neg	6:aux:neg	=NEG
+8	=shin	_	PART	_	_	6	aux:r.pst	6:aux:r.pst	=REC.PST
+9	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4-amc-candy
+# oracion = Kishikimun un tahozashinkuhnu.
+# trs_spa = Sentí entumecimiento en el muslo.
+1	kishi	_	NOUN	_	_	5	obl	5:obl	muslo
+2	=ki	_	PART	_	_	1	case	1:case	=OBL
+3	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+4	un	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+5	tahoza	_	VERB	_	_	0	root	0:root	sentir.entumecimiento
+6	=shin	_	PART	_	_	5	aux:r.pst	5:aux:r.pst	=REC.PST
+7	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 5-amc-candy
+# oracion = Ramamun min tohoyahnu.
+# trs_spa = Ahora estás embarazada.
+1	rama	_	ADV	_	_	4	advmod	4:advmod	ahora
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+3	min	_	PRON	_	_	4	nsubj	4:nsubj	2SG
+4	toho	_	NOUN	_	_	0	root	0:root	feto
+5	=ya	_	PART	_	_	4	case	4:case	=PROP
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6-amc-candy
+# oracion = Hospital tohavaunmun yononox unhkanu.
+# trs_spa = Trabajé en hospitales grandes. 
+1	hospital	_	NOUN	_	_	5	obl	5:obl	hospital
+2	toha	_	ADJ	_	_	2	amod	2:amod	grande
+3	=vaun	_	PART	_	_	1	case	1:case	=PL
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	yonoo	_	VERB	_	_	0	root	0:root	trabajar
+6	=nox	_	PART	_	_	5	aux:hab	5:aux:hab	=HAB
+7	un	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+8	=ka	_	PART	_	_	5	aux:act.1	5:aux:act.1	=ACT.1
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9-amc-candy
+# oracion = Jii puhimun paxasharaahnu.
+# trs_spa = Las hojas son verdes.
+1	jii	_	NOUN	_	_	2	nmod	2:nmod	árbol
+2	puhi	_	NOUN	_	_	4	nsubj	4:nsubj	hojas
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	paxa	_	ADJ	_	_	0	root	0:root	verde
+5	=sharaa	_	PART	_	_	4	aux:bien	4:aux:bien	=BIEN
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 10-amc-candy
+# oracion = Un piyakantimun kuruxsharaahnu.
+# trs_spa = Mi arco es muy resistente.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	piyakanti	_	NOUN	_	_	4	subj	4:subj	arco
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	kurux	_	ADJ	_	_	0	root	0:root	resistente
+5	=sharaa	_	PART	_	_	4	aux:bien	4:aux:bien	=BIEN
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 11_amc_candy
+# oracion = Xanomun nataihnu ova oku varixutuupa.
+# trs_spa = Una mujer murió el año pasado.
+1	xano	_	PROPN	_	_	2	nsubj	2:nsubj	Eleuterio
+2	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	na	_	VERB	_	_	0	root	0:root	morir
+6	=tai	_	PART	_	_	5	aux:y.pst	5:aux:y.pst	=YEAR.PST
+7	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+
+# sent_id = 12_amc_candy
+# oracion = Chipomun jan jan chahiyaakun tapazan kayanxohki.
+# trs_spa = Poco después, se dirigió a la choza de su cuñado.
+1	chipo	_	NOUN	_	_	9	advmod	9:advmod	después
+2	=mun	_	PART	_	_	9	aux:valid	9:aux:valid	=FOC
+3	jan	_	PRON	_	_	4	nsubj	4:nsubj	3SG
+4	jan	_	DET	_	_	4	det	4:det	3SG.POSS
+5	chahiyaa	_	NOUN	_	_	7	nmod	7:nmod	cuñado
+6	=kan	_	PART	_	_	5	case	5:case	=GEN
+7	tapaz	_	NOUN	_	_	9	obl	9:obl	casa
+8	=n	_	PART	_	_	7	case	7:case	=LOC
+9	ka	_	VERB	_	_	0	root	0:root	ir
+10	=yan	_	PART	_	_	9	aux:n.pst	9:aux:n.pst	=NEAR.PST
+11	=xo	_	PART	_	_	9	aux:pst.3	9:aux:pst.3	=PST.3
+12	=ki	_	PART	_	_	9	aux:decl	9:aux:decl	=DECL
+13	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 13_amc_candy
+# oracion = Un povimun orama jahaxkihnu.
+# trs_spa = Mi hermana vive cerca.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	povi	_	NOUN	_	_	5	nsubj	5:nsubj	hermana
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	orama	_	ADV	_	_	5	advmod	5:advmod	cerca
+5	ja	_	VERB	_	_	0	root	0:root	vivir
+6	=hax	_	PART	_	_	5	aux:perf	5:aux:perf	=PERF
+7	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14_amc_candy
+# oracion = Min yomamun jovahamahnu.
+# trs_spa = Tu pescado todavía no está cocido.
+1	min	_	DET	_	_	2	det	2:det	2SG.POSS
+2	yoma	_	NOUN	_	_	5	nsubj	5:nsubj	pescado
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	jova	_	VERB	_	_	0	root	0:root	cocinar
+5	=hama	_	PART	_	_	6	aux:neg	6:aux:neg	=NEG
+6	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 16_amc_candy
+# oracion = Miyanra min iya kunashinna.
+# trs_spa = Tú eres el que me llamó.
+1	miya	_	PRON	_	_	8	nsubj	8:nsubj	2SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=ra	_	PART	_	_	2	aux:excl	2:aux:excl	=EXCL
+4	min	_	DET	_	_	2	nsubj.copy	2:nsubj.copy	2SG.NOM
+5	iya 	_	PRON	_	_	2	obj	2:obj	1SG.O
+6	kuna	_	VERB	_	_	0	root	0:root	llamar
+7	=shin	_	PART	_	_	7	aux:r.pst	7:aux:r.pst	=REC.PST
+8	=na	_	PART	_	_	8	aux:rec	8:aux:rec	=REC
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 17_amc_candy
+# oracion = Jaton kunmamunhnu mapoki jahaavo.
+# trs_spa = Ellos no estaban acostumbrados a vivir río abajo.
+1	jato	_	PRON	_	_	3	nsubj	3:nsubj	3PL
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	kuun	_	VERB	_	_	0	root	0:root	gustar
+4	=ma	_	PART	_	_	3	aux:neg	3:aux:neg	=NEG
+5	=mun	_	PART	_	_	3	aux:valid	3:aux:valid	=FOC
+6	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+7	mapoki	_	PRON	_	_	8	obl	8:obl	río.abajo
+8	ja	_	VERB	_	_	3	xcomp	3:xcomp	vivr
+9	=ha	_	PART	_	_	8	aux:nmlz	8:aux:nmlz	=NMLZ
+10	=vo	_	PART	_	_	8	aux:and	8:aux:and	=AND
+11	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 19_amc_candy
+# oracion = Nan vakonhma vipu.
+# trs_spa = Recibe esta agua. 
+1	nan	_	DET	_	_	2	det	2:det	este
+2	vakohma	_	NOUN	_	_	3	obj	3:obj	agua
+3	vi	_	VERB	_	_	0	root	0:root	recibir
+4	=pu	_	PART	_	_	3	aux:imp.m	3:aux:imp.m	=IMP.M
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 20_amc_candy
+# oracion = ¿Raki jahaxra atza tokonhki?
+# trs_spa = ¿Dónde hay masato?
+1	raki	_	ADV	_	_	2	adv	2:adv	dónde
+2	ja	_	VERB	_	_	0	root	0:root	estar
+3	=hax	_	PART	_	_	2	aux:perf	2:aux:perf	=PERF
+4	=ra	_	PART	_	_	2	aux:valid.int	2:aux:valid.int	=INT
+5	atza-tokon	_	NOUN	_	_	2	nsubj	2:nsubj	masato
+6	=ki	_	PART	_	_	2	aux:act.2/3	2:aux:act.2/3	=ACT.2/3
+7	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 21_amc_candy
+# oracion = Janmun jan jato kiyoo tziztoxohnu.
+# trs_spa = Él reunió a todos.
+1	ja	_	PRON	_	_	6	nsubj	6:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jan	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	3SG.NOM
+5	jato	_	PRON	_	_	6	obj	6:obj	3PL
+6	tzizto	_	VERB	_	_	0	root	0:root	reunir
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 22_amc_candy
+# oracion = Iya kimisha atza kaxku inanpu.
+# trs_spa = Dame tres pedazos/trozos de yuca.
+1	iya	_	PRON	_	_	5	obj	5:obj	1SG.O
+2	kimisha	_	NOUN	_	_	3	nummod	3:nummod	tres
+3	atza	_	NOUN	_	_	5	obj	5:obj	yuca
+4	kaxku	_	NOUN	_	_	5	nmod	5:nmod	mitad
+5	inan	_	VERB	_	_	0	root	0:root	dar
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=pu	_	PART	_	_	5	aux:voc.m	5:aux:voc.m	=VOC.M
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 24_amc_candy
+# oracion = ¿Kuzanon iya janoxon iinhira minhkai?
+# trs_spa = ¿Por qué me miras fijamente?
+1	kuzanon	_	ADV	_	_	5	adv	5:adv	por.qué
+2	iya 	_	DET	_	_	5	obj	5:obj	1SG.O
+3	jano	_	ADV	_	_	5	adv	5:adv	allá
+4	=xon	_	PART	_	_	3	aux:valid.prev.s/a>a	3:aux:valid.prev.s/a>a	=PREV.S/A>A
+5	iin	_	VERB	_	_	0	root	0:root	mirar
+6	=hi	_	PART	_	_	5	aux:ipfv	5:aux:ipfv	=IPFV
+7	=ra	_	PART	_	_	5	aux:valid.int	5:aux:valid.int	=INT
+8	min	_	PRON	_	_	5	nsubj	5:nsubj	2SG
+9	=kai	_	PART	_	_	5	aux:act.2	5:aux:act.2	=ACT.2
+10	?	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 27_amc_candy
+# oracion = Jaxmun jan ainvutan janox janhkinu.
+# trs_spa = Él vivía con su esposa.
+1	ja	_	PRON	_	_	7	nsubj	7:nsubj	3SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	jan	_	DET	_	_	5	det	5:det	3SG.POS
+5	ain	_	PRON	_	_	7	obl	7:obl	mujer
+6	=vutan	_	PART	_	_	5	case	5:case	=CONM
+7	ja	_	VERB	_	_	0	root	0:root	vivir
+8	=nox	_	PART	_	_	7	aux:hab	7:aux:hab	=HAB
+9	jan	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	3SG.NOM
+10	=ki	_	PART	_	_	7	aux:act.2/3	7:aux:act.2/3	=ACT.2/3
+11	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+12	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 29_amc_candy
+# oracion = Piyayamun jan jaa jashinxohnu.
+# trs_spa = Ella tenía flechas.
+1	piya	_	NOUN	_	_	7	obl	7:obl	flecha
+2	=ya	_	PART	_	_	1	case	1:case	=CONM
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	ja	_	PRON	_	_	7	nsubj	7:nsubj	3SG
+5	=n	_	PART	_	_	4	case	4:case	=A
+6	jaa	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	3SG.NOM
+7	ja	_	VERB	_	_	0	root	0:root	tener
+8	=shin	_	PART	_	_	7	aux:r.pst	7:aux:r.pst	=REC.PST
+9	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 30_amc_candy
+# oracion = Tapazyamun unhnu.
+# trs_spa = Yo tengo casa.
+1	tapaz	_	NOUN	_	_	0	root	0:root	casa
+2	=ya	_	PART	_	_	1	case	1:case	=CONM
+3	=mun	_	PART	_	_	1	aux:valid	1:aux:valid	=FOC
+4	un	_	PRON	_	_	1	nsubj	1:nsubj	1SG
+5	=nu	_	PART	_	_	1	aux:decl	1:aux:decl	=DECL
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31_amc_candy
+# oracion = Janmun jan jan vaku joni turuzyanxohnu.
+# trs_spa = Él le cortó el pelo a su hijo.
+1	ja	_	PRON	_	_	8	nsubj	8:nsubj	1SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+4	jan	_	PRON	_	_	8	nsubj:copy	8:nsubj:copy	3SG.NOM
+5	jan	_	DET	_	_	6	nsubj:copy	6:nsubj:copy	3SG.NOM
+6	vaku	_	NOUN	_	_	8	obj	8:obj	niño
+7	joni	_	NOUN	nan	nan	6	nmod	6:nmod	varón
+8	turuz	_	VERB	_	_	0	root	0:root	cortar.pelo
+9	=yan	_	PART	_	_	8	aux:n.pst	8:aux:n.pst	=NEAR.PST
+10	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+12	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 32_amc_candy
+# oracion = Vava vauxmun mukaahikinu.
+# trs_spa = Mis nietos están jugando.
+1	vavavo	_	NOUN	_	_	4	nsubj	4:nsubj	nietos
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	mukaa	_	VERB	_	_	0	root	0:root	jugar
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	=ki	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 33_amc_candy
+# oracion = Miyanmun iya tapazxonkatzi minhkinupu.
+# trs_spa = Tú me construirás una casa. 
+1	miya	_	PRON	_	_	5	nsubj	5:nsubj	2SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	iya	_	PRON	_	_	5	obj	5:obj	1SG
+5	tapaz	_	NOUN	_	_	0	root	0:root	casa
+6	=xon	_	PART	_	_	5	aux:ben	5:aux:ben	=BEN
+7	=katzi	_	PART	_	_	5	aux:ben	5:aux:ben	=FUT
+8	min	_	PRON	_	_	5	nsubj.copy	5:nsubj.copy	2SG.NOM
+9	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+11	=pu	_	PART	_	_	5	aux:voc.m	5:aux:voc.m	=VOC.M
+12	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 34_amc_candy
+# oracion = Vaku jonimun junumuranxohnu.
+# trs_spa = El niño se ahogó en el río.
+1	vaku	_	NOUN	_	_	4	nsubj	4:nsubj	niño
+2	joni	_	NOUN	nan	nan	1	nmod	1:nmod	varón
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	junumuran	_	VERB	_	_	0	root	0:root	ahogar
+5	=xo	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+6	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 36_amc_candy
+# oracion = Jan miya jan izin inantimun janhnupu.
+# trs_spa = Puede que él te transmita su enfermedad.
+1	ja	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	miya	_	PRON	_	_	6	obj	6:obj	2SG
+4	jan	_	DET	_	_	5	det	5:det	3SG.POS
+5	izin	_	NOUN	_	_	6	obj	6:obj	niño
+6	inan	_	VERB	_	_	0	root	0:root	reunir
+7	=ti	_	PART	_	_	6	aux:pos	6:aux:pos	=POS
+8	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+9	jan	_	PRON	_	_	6	nsubj.copy	6:nsubj.copy	3SG.NOM
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	=pu	_	PART	_	_	6	aux:voc.m	6:aux:voc.m	=VOC.M
+12	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 37_amc_candy
+# oracion = Jaa xanomun yovuuhnukanpu.
+# trs_spa = Esa mujer es una bruja.
+1	jaa	_	DET	_	_	2	det	2:det	esa
+2	xano	_	NOUN	_	_	4	nsubj	4:nsubj	mujer
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	yovuu	_	NOUN	_	_	0	root	0:root	bruja
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	=kan	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+7	=pu	_	PART	_	_	4	aux:voc.m	4:aux:voc.m	=VOC.M
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38_amc_candy
+# oracion = Un tapazmun pishtahnu.
+# trs_spa = Mi casita es pequeña.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	tapaz	_	NOUN	_	_	4	nsubj	4:nsubj	casa
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	pishta	_	NOUN	_	_	0	root	0:root	pequeña
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 39_amc_candy
+# oracion = Jatonmun jii muzti topihikankihnu.
+# trs_spa = Ellos empezarán a recolectar ramitas secas.
+1	jato	_	PRON	_	_	6	nsubj	6:nsubj	3PL
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jii	_	NOUN	_	_	5	nmod	5:nmod	árbol
+5	muzti	_	NOUN	_	_	6	obj	6:obj	rama
+6	topi	_	VERB	_	_	0	root	0:root	recolectar
+7	=hi	_	PART	_	_	6	aux:decl	6:aux:decl	=IPFV
+8	=kan	nan	PART	_	_	6	aux:pl	6:aux:pl	=PL
+9	=ki	_	PART	_	_	6	aux:act.2/3	6:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 43_amc_candy
+# oracion = Naavimimun vanapaihi unhkanu.
+# trs_spa =  Quiero plantar/sembrar papaya.
+1	naavimi	_	NOUN	_	_	4	obj	4:obl:loc	papaya.O
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	vana	_	VERB	_	_	0	root	0:root	sembrar
+5	=pai	_	PART	_	_	4	aux:des	4:aux:des	=DES
+6	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG.NOM
+7	=ka	_	PART	_	_	4	aux:act.1	4:aux:act.1	=ACT.1
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 44_amc_candy
+# oracion = Janmun jan jaha notzimashinxohnu.
+# trs_spa = Ella hizo enojar a su madre.
+1	ja	_	PRON	_	_	6	nsubj	6:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jan	_	DET	_	_	5	det	5:det	3SG.POS
+5	jaha	_	NOUN	_	_	6	obj	6:obj	madre
+6	notzi	_	VERB	_	_	0	root	0:root	enojarse
+7	=ma	_	PART	_	_	6	aux:ben	6:aux:ben	=CAUS
+8	=shin	_	PART	_	_	6	aux:r.pst	6:aux:r.pst	=REC.PST
+9	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 45_amc_candy
+# oracion = Janmun jan jan povin tokon javutan axohnu.
+# trs_spa = Él bebió el masato de su hermana junto con él.
+1	ja	_	PRON	_	_	10	nsubj	10:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	10	aux:valid	10:aux:valid	=FOC
+4	jan	_	PRON	_	_	10	nsubj.copy	10:nsubj.copy	3SG.NOM
+5	jan	_	DET	_	_	6	det	6:det	3SG.POSS
+6	povin	_	NOUN	_	_	7	nmod	7:nmod	hermana
+7	tokon	_	NOUN	_	_	10	obj	10:obj	masato
+8	ja	_	PRON	_	_	10	obl	10:obl	3SG
+9	=vutan	_	PART	_	_	8	case	8:case	=CONM
+10	a	_	VERB	_	_	0	root	0:root	beber
+11	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+12	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+13	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46_amc_candy
+# oracion = Jan vakukimun yovansharaahi janhkinu.
+# trs_spa = Él presume de / se jacta de su hijo.
+1	jan	_	DET	_	_	2	det	2:det	3SG.POS
+2	vaku	_	NOUN	_	_	5	obl	5:obl	hijo
+3	=ki	_	PART	_	_	2	case	2:case	=OBL
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	yovan	_	VERB	_	_	0	root	0:root	hablar
+6	=shara	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=BIEN
+7	=hi	_	PART	_	_	5	aux:decl	5:aux:decl	=IPFV
+8	jan	_	PRON	_	_	5	nsubj	5:nsubj	3SG
+9	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 47_amc_candy
+# oracion = Jaxmun jan ainki paxahi janhkinu.
+# trs_spa = Él está escapando de su esposa.
+1	ja	_	PRON	_	_	7	nsubj	7:nsubj	3SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	jan	_	DET	_	_	5	det	5:det	3SG.POS
+5	ain	_	PRON	_	_	7	obl	7:obl	mujer
+6	=ki	_	PART	_	_	5	case	5:case	=OBL
+7	paxahi	_	VERB	_	_	0	root	0:root	escaparse
+9	jan	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	3SG.NOM
+10	=ki	_	PART	_	_	7	aux:act.2/3	7:aux:act.2/3	=ACT.2/3
+11	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+12	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 48_amc_candy
+# oracion = Vakaxmun jirihihkinu.
+# trs_spa = Las vacas están comiendo.
+1	vaka	_	NOUN	_	_	4	nsubj	4:nsubj	vaca
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	jiri	_	VERB	_	_	0	root	0:root	comer
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	=ki	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 49_amc_candy
+# oracion = Iyanmun un nahakin pishayankuhnu.
+# trs_spa = Yo hice varios morrales/morralitos pequeños.
+1	iya	_	PRON	_	_	7	nsubj	7:nsubj	1SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	un	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	1SG.NOM
+5	naha	nan	ADJ	nan	nan	7	amod	7:amod	bastante
+6	=kin	_	PART	_	_	7	aux:sim.sa/a	7:aux:sim.sa/a	=SIM.S.A/A
+7	pisha	_	NOUN	_	_	0	root	0:root	bolsa
+8	=yan	_	PART	_	_	7	aux:n.pst	7:aux:n.pst	=NEAR.PST
+9	=ku	_	PART	_	_	7	aux:pst.1/2	7:aux:pst.1/2	=PST.1/2
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 51_amc_candy
+# oracion = Jan jonivaunmun nami piyamakovinkihnu.
+# trs_spa = Su gente (de él) comía poca carne.
+1	jan	_	DET	_	_	5	det	5:det	3SG.POS
+2	joni	_	PRON	_	_	7	obl	7:obl	hombre
+3	=vaun	_	PART	_	_	2	case	2:case	=PL.A
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	nami	_	NOUN	_	_	5	obj	5:obj	carne
+6	pi	_	VERB	_	_	0	root	0:root	comer
+7	=yama	_	PART	_	_	5	aux:neg	5:aux:neg	=NEG
+8	=kovin	_	PART	_	_	5	aux:muy	5:aux:muy	=MUY
+9	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 54_amc_candy
+# oracion = Unhratzamun jokihnu.
+# trs_spa = Mi otro primo vino.
+1	unhra	_	NOUN	_	_	5	nsubj	5:nsubj	primo
+2	=tza	_	PART	_	_	1	case	1:case	=OTRO
+3	=x	_	PART	_	_	5	case	5:case	=S
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	jo	_	VERB	_	_	0	root	0:root	venir.SG
+6	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 55_amc_candy
+# oracion = Kuntii tohanmun kovinhi vakonhmahkinu.
+# trs_spa = El agua hervía en una olla grande.
+1	kuntii	_	NOUN	_	_	5	obl	5:obl	olla
+2	toha	nan	ADJ	nan	nan	1	amod	1:amod	grande
+3	=n	_	PART	_	_	1	case	1:case	=LOC
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	kovin	_	VERB	_	_	0	root	0:root	hervir
+6	=hi	_	PART	_	_	5	aux:ipfv	5:aux:ipfv	=IPFV
+7	vakonhma	_	NOUN	_	_	5	obj	5:obj	agua
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 56_amc_candy
+# oracion = Jan vakunmun ishishmovu achixohnu.
+# trs_spa = Esta niña tomó la ishanga.
+1	jan	_	DET	_	_	2	det	2:det	3SG.POS
+2	vaku	_	PRON	_	_	6	nsubj	6:nsubj	niña
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	ishishmovu	_	NOUN	_	_	6	obj	6:obj	ishanga
+6	achi	_	VERB	_	_	0	root	0:root	tomar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+
+# sent_id = 58_amc_candy
+# oracion = ¿Kuzanonra ino nahi?
+# trs_spa = ¿Por qué murió el perro?
+1	kuzanon	_	ADV	_	_	4	adv	4:adv	por.qué
+2	=ra	_	PART	_	_	4	aux:valid.int	4:aux:valid.int	=INT
+3	ino	_	NOUN	_	_	4	nsubj	4:nsubj	perro.S
+4	na	_	VERB	_	_	0	root	0:root	morir
+5	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59_amc_candy
+# oracion = ¿Kutzatin koriki iya kopiikatzira minhkai?
+# trs_spa = ¿Cuánto dinero me pagarás?
+1	kutzatin	_	ADJ	_	_	2	amod	2:amod	cuánto
+2	koriki	_	NOUN	_	_	4	obj	4:obj	dinero
+3	iya 	_	PRON	_	_	4	obj	4:obj	1SG.O
+4	kopii	_	VERB	_	_	0	root	0:root	pagar
+5	=katzi	_	PART	_	_	4	aux:subs.s/a>s	4:aux:subs.s/a>s	=SUBS.S/A>S
+6	=ra	_	PART	_	_	4	aux:valid.int	4:aux:valid.int	=INT
+7	min	_	PRON	_	_	4	nsubj	4:nsubj	2SG.NOM
+8	=kai	_	PART	_	_	4	aux:act.2	4:aux:act.2	=ACT.2
+9	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 60_amc_candy
+# oracion = ¿Kutzatinyan tziztokohootira non?
+# trs_spa = ¿Cuándo nos reuniremos/juntaremos?
+1	kutzatinyan	_	ADV	_	_	2	advmod	2:advmod	cuándo
+2	tziztokoho	_	VERB	_	_	0	root	0:root	reunirse
+3	=ti	_	PART	_	_	2	aux:pos	2:aux:pos	=POS
+4	=ra	_	PART	_	_	2	aux:valid.int	2:aux:valid.int	=INT
+5	non	_	PRON	_	_	2	nsubj	2:nsubj	1PL.NOM
+6	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1-amc-candy
+# oracion = Joniya xanovauxmun Liman voyanxohnu.
+# trs_spa = Los hombres y las mujeres se fueron a Lima. 
+1	joni	_	NOUN	_	_	3	conj	3:conj	hombre
+2	=ya	_	PART	_	_	3	cc	3:cc	=
+3	xano	_	NOUN	_	_	8	nsubj	8:nsubj	mujer
+4	=vaux	_	PART	_	_	3	number:pl	3:number:pl	=PL
+5	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+6	Lima	_	PROPN	_	_	8	obl	8:obl	Lima
+7	=n	_	PART	_	_	3	case:abl	3:case:abl	=OBL
+8	vo	_	VERB	_	_	0	root	0:root	ir
+9	=yan	_	PART	_	_	8	aux:t1	8:aux:t1	=hace.un.mes
+10	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+12	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 2-amc-candy
+# oracion = Yohihavo nokun iyoonikaakiha Limanohax vakukannixohnu.
+# trs_spa = (Dice que) Nuestros antepasados nacieron en Lima.
+1	yohi	_	VERB	_	_	8	advcl	8:advcl	decir
+2	=havo	_	PART	_	_	1	aux:prev.sd.pl	1:aux:prev.sd.pl	=PREV.SD.PL
+3	nokun	_	DET	_	_	4	det	4:det	1PL.POSS
+4	iyoonika	_	NOUN	_	_	9	nsubj	9:nsubj	antepasados
+5	=kiha	_	PART	_	_	8	aux:valid.report	8:aux:valid.report	=REPORT
+6	Lima	_	PROPN	_	_	8	obl	8:obl	Lima
+7	=nohax	_	PART	_	_	3	case:abl	3:case:abl	=ABL
+8	vaku	_	VERB	_	_	0	root	0:root	nacer
+9	=kan	_	PART	_	_	8	aux:pl	8:aux:pl	=PL
+10	=ni	_	PART	_	_	8	aux:rem.pst	6:aux:rem.pst	=REM.PST
+11	=xo	_	PART	_	_	8	aux:pst.3	6:aux:pst.3	=PST.3
+12	=nu	_	PART	_	_	8	aux:decl	6:aux:decl	=DECL
+13	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 2_amc_candy
+# oracion = Jintziz xutayaahtonmun sankennin vaku pihanxohnu.
+# trs_spa = La hormiga ischimi mordió al hijo de Sanken.
+1	jintziz	_	NOUN	_	_	2	nmod	2:nmod	ischimi
+2	xuta	_	NOUN	_	_	9	nsubj	9:nsubj	diente
+3	=ya	_	PART	_	_	2	case	2:case	=PROP
+4	=ton	_	PART	_	_	2	case	2:case	=A
+5	=mun	_	PART	_	_	9	aux:valid	9:aux:valid	=FOC
+6	Sanke	_	PROPN	_	_	8	nmod	8:nmod	Sanken
+7	=nin	_	PART	_	_	6	case	6:case	=GEN
+8	vaku	_	NOUN	_	_	9	obj	9:obj	nieto
+9	pi	_	VERB	_	_	0	root	0:root	morder
+10	=han	_	PART	_	_	9	aux:malf	9:aux:malf	=MALF
+11	=xo	_	PART	_	_	9	aux:pst.3	9:aux:pst.3	=PST.3
+12	=nu	_	PART	_	_	9	aux:decl	9:aux:decl	=DECL
+13	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 3_amc_candy
+# oracion = Marian vaimun Cesar machiton oroshinxohnu.
+# trs_spa = César limpió/rozó la chacra de María con un machete.
+1	Maria	_	PROPN	_	_	3	nmod	6:nmod	María
+2	=n	_	PART	_	_	2	case	2:case	=GEN
+3	vai	_	NOUN	_	_	8	obj	7:obj	chacra
+4	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+5	Cesar	_	PROPN	_	_	8	nsubj	7:nsubj	Cesar
+6	machito	_	NOUN	_	_	8	obl:inst	7:obl:inst	machete
+7	=n	_	PART	_	_	8	case	8:case	=INST
+8	oro	_	VERB	_	_	0	root	0:root	tumbar
+9	=shin	_	PART	_	_	8	aux:r.pst	8:aux:r.pst	=REC.PST
+10	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+12	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 4_amc_candy
+# oracion = Sábado nutumun iyan jari kapahi unhkanu.
+# trs_spa = El sábado quiero ir al lago.
+1	sabado	_	NOUN	_	_	2	nmod	2:nmod	sabado
+2	nutu	_	NOUN	_	_	7	obl	7:obl	día
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	iya	_	PRON	_	_	7	nsubj	7:nsubj	1SG
+5	=n	_	PART	_	_	4	case	4:case	=A
+6	jari	_	ADV	_	_	7	advmod	7:advmod	allá
+7	ka	_	VERB	_	_	0	root	0:root	ir
+8	=pahi	_	PART	_	_	7	aux:des	7:aux:des	=DES
+9	un	_	PRON	_	_	7	nsubj.copy	7:nsubj.copy	1SG.NOM
+10	=ka	_	PART	_	_	7	aux:act.1	7:aux:act.1	=ACT.1
+11	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+12	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 6_amc_candy
+# oracion = Ino chaho povunnu joni ravuu pinikunmun yohinoxkankihnu.
+# trs_spa = Se dice que el feroz yanapuma se comió a los dos hombres.
+1	ino	_	NOUN	_	_	7	nsubj	7:nsubj	tigre
+2	chaho	_	ADJ	_	_	1	amod	1:amod	negro
+3	povun	_	ADJ	_	_	1	amod	1:amod	bravo
+4	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+5	joni	_	NOUN	_	_	7	obj	7:obj	hombre
+6	ravuu	_	NUM	_	_	5	nummod	5:nummod	dos
+7	pi	_	VERB	_	_	11	advcl	11:advcl	comer
+8	=ni	_	PART	_	_	7	aux:rem.pst	6:aux:rem.pst	=REM.PST
+9	=kun	_	PART	_	_	7	aux:prev.ds	7:aux:prev.ds	=PREV.DS
+10	=mun	_	PART	_	_	11	aux:valid	11:aux:valid	=FOC
+11	yohi	_	VERB	_	_	0	root	0:root	decir
+12	=nox	_	PART	_	_	11	aux:rem.pst	6:aux:rem.pst	=REM.PST
+13	=kan	_	PART	_	_	11	aux:pl	11:aux:pl	=PL
+14	=ki	_	PART	_	_	11	aux:pst.3	6:aux:pst.3	=PST.3
+15	=nu	_	PART	_	_	11	aux:decl	6:aux:decl	=DECL
+16	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 7_amc_candy
+# oracion = Caconohax joha joninmun rono rutukihnu.
+# trs_spa = El hombre que vino de Caco ayer mató una serpiente.
+1	Kako	_	PROPN	_	_	3	obl	3:obl	Caco
+2	=nohax	_	PART	_	_	2	case	2:case	=ABL
+3	jo	_	VERB	_	_	5	acl:relcl	5:acl:relcl	venir
+4	=ha	_	PART	_	_	3	aux:prev.o>s	3:aux:prev.o>s	=PREV.O>S
+5	joni	_	NOUN	_	_	9	nsubj	9:nsubj	hombre
+6	=n	_	PART	_	_	5	case	5:case	=A
+7	=mun	_	PART	_	_	9	aux:valid	9:aux:valid	=FOC
+8	rono	_	NOUN	_	_	9	obj	9:obj	serpiente.O
+9	rutu	_	VERB	_	_	0	root	0:root	matar
+10	=ki	_	PART	_	_	9	aux:pst.3	9:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	9	aux:decl	9:aux:decl	=DECL
+12	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 8_amc_candy
+# oracion = Nontinnohax pakuukinmun un vakonhma ayakuhnu.
+# trs_spa = Al caerme (de la canoa), tomé agua.
+1	nonti	_	NOUN	_	_	3	obl	3:obl	canoa
+2	=nohax	_	PART	_	_	1	case	1:case	=ABL
+3	pakuu	_	VERB	_	_	8	advcl	8:advcl	caer
+4	=kin	_	PART	_	_	3	aux:sim.sa/a	3:aux:sim.sa/a	=SIM.S.A/A
+5	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+6	un	_	PRON	_	_	8	nsubj	8:nsubj	1SG.NOM
+7	vakohma	_	NOUN	_	_	8	obj	8:obj	agua
+8	aya	_	VERB	_	_	0	root	0:root	beber
+9	=ku	_	PART	_	_	8	aux:pst.1/2	8:aux:pst.1/2	=PST.1/2
+10	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+11	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 9_amc_candy
+# oracion = Jiinmun Sani koshaxohnu.
+# trs_spa = El árbol golpeó a Sani.
+1	jii	_	NOUN	_	_	5	nsubj	5:nsubj	palo
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	Sani	_	PROPN	_	_	5	obj	5:obj	Sani
+5	kosha	_	VERB	_	_	0	root	0:root	golpear
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1-amc-candy
+# oracion = Iyaxmun un yamuu kiyoo chirinkuhnu.
+# trs_spa = Yo bailé toda la noche.
+1	iya	_	PRON	_	_	3	nsubj	3:nsubj	1SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+4	un	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	1SG.NOM
+5	yamuu	_	ADV	_	_	7	obj	7:obj	de.noche
+6	kiyoo	_	ADV	_	_	5	advmod	5:advmod	todos
+7	chirin	_	NOUN	_	_	0	root	0:root	bailar
+8	=ku	_	PART	_	_	3	aux:pst	3:aux:pst	=PST.1/2
+9	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+10	.	_	PUNCT	_	_	3	punct	_	_
+# sent_id = 3-amc-candy
+# oracion = Min jumamun onanpaiyamahi unhkanupu.
+# trs_spa = Yo no quiero conocer tu comunidad.
+1	min	_	DET	_	_	2	det	2:det	2SG.POS
+2	juma	_	NOUN	_	_	4	obj	4:obj	comunidad
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+4	onan	_	VERB	_	_	0	root	0:root	conocer
+5	=pai	_	PART	_	_	4	aux:des	4:aux:des	=DES
+6	=yama	_	PART	_	_	4	aux:neg	4:aux:neg	=NEG
+7	=hi	_	PART	_	_	4	aux:s/a>s	4:aux:s/a>s	=S/A>S
+8	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG
+9	=ka	_	PART	_	_	4	aux:act.1	4:aux:act.1	=ACT.1
+10	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+11	=pu	_	PART	_	_	4	aux:voc.m	4:aux:voc.m	=VOC.M
+12	.	_	PUNCT	_	_	4	punct	_	_
+# sent_id = 4-amc-candy
+# oracion = Un vunumun jasharahikinu.
+# trs_spa = Mi esposo está feliz.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	vunu	_	NOUN	_	_	4	subj	4:subj	esposo
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+4	ja	_	VERB	_	_	0	root	0:root	estar
+5	=shara	_	PART	_	_	4	aux:bien	4:aux:bien	=BIEN
+6	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+7	=ki	_	PART	_	_	4	aux:pres.2/3	4:aux:pres.2/3	=PRES.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+# sent_id = 5-amc-candy
+# oracion = Aponmun jonirazi jato kunahihkinu.
+# trs_spa = El jefe está llamando a los hombres.
+1	apo	_	NOUN	_	_	7	subj	7:subj	jefe
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+4	joni	_	NOUN	_	_	7	obj	7:obj	hombres
+5	=razi	_	PART	_	_	4	aux:varios	4:aux:varios	=VARIOS
+6	jato	_	PRON	_	_	7	obj	7:obj	3PL
+7	kuna	_	VERB	_	_	0	root	0:root	llamar
+8	=hi	_	PART	_	_	7	aux:ipfv	7:aux:ipfv	=IPFV
+9	=ki	_	PART	_	_	7	aux:pres.2/3	7:aux:pres.2/3	=PRES.2/3
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 6-amc-candy
+# oracion = Un vununmun iya tantzohxohnu.
+# trs_spa = Mi esposo me besó en la mejilla.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	vunu	_	NOUN	_	_	6	subj	6:subj	esposo
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+5	iya	_	PRON	_	_	6	obj	6:obj	1SG
+6	tantzo	_	VERB	_	_	0	root	0:root	besar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 7-amc-candy
+# oracion = Iyamun un vunun tantzohxohnu.
+# trs_spa = Fui besada por mi esposo.
+1	iya	_	PRON	_	_	6	obj	6:obj	1SG
+2	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+3	un	_	DET	_	_	4	det	4:det	1SG.POS
+4	vunu	_	NOUN	_	_	6	subj	6:subj	esposo
+5	=n	_	PART	_	_	4	case	4:case	=A
+6	tantzo	_	VERB	_	_	0	root	0:root	besar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 8-amc-candy
+# oracion = Janmun jan iya jono nami inanxohnu.
+# trs_spa = Él me dio carne de sajino.
+1	ja	_	PRON	_	_	7	nsubj	7:nsubj	1SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+4	iya	_	PRON	_	_	7	obj	7:obj	1SG.O
+5	jono	_	NOUN	_	_	6	nmod	6:nmod	sajino
+6	nami	_	NOUN	_	_	6	obj	6:obj	carne
+7	inan	_	VERB	_	_	0	root	0:root	dar
+8	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 9-amc-candy
+# oracion = Ratuhkuuhaxmun Felipe zaihxohnukanpu.
+# trs_spa = Asustado, Felipe gritó.
+1	ratu	_	VERB	_	_	6	advcl	6:advcl	asustar
+2	=ku	_	PART	_	_	1	aux:refl	1:aux:refl	=REFL
+3	=hax	_	PART	_	_	1	aux:prev.s.a/a	1:aux:prev.s.a/a	=PREV.S.A/A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+5	Felipe	_	PRON	_	_	6	nsubj	6:nsubj	1SG.S
+6	zai	_	VERB	_	_	0	root	0:root	gritar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	=kan	_	PART	_	_	6	aux:temp	6:aux:temp	=TEMP
+10	=pu	_	PART	_	_	6	aux:voc.m	6:aux:voc.m	=VOC.M
+11	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 10-amc-candy
+# oracion = Jan ainninmun jan vunu kunaxohnu.
+# trs_spa = La mujer llamó a su esposo.
+1	jan	_	DET	_	_	2	det	2:det	3SG
+2	ain	_	NOUN	_	_	7	nsubj	7:nsubj	mujer
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+5	jan	_	DET	_	_	5	det	5:det	3SG
+6	vunu	_	NOUN	_	_	7	obj	7:obj	esposo
+7	kuna	_	VERB	_	_	0	root	0:root	llamar
+8	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 11-amc-candy
+# oracion = Vivianan iya atza jovaa umanhamamunhnu.
+# trs_spa = Viviana no compartió la yuca conmigo.
+1	Viviana	_	NOUN	_	_	6	nsubj	6:nsubj	Viviana
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	iya	_	PRON	_	_	6	obj	6:obj	1SG
+4	atza	_	NOUN	_	_	6	obj	6:obj	yuca
+5	jovaa	_	ADJ	_	_	4	amod	4:amod	cocinada
+6	uman	_	VERB	_	_	0	root	0:root	compartir
+7	=ama	_	PART	_	_	6	aux:neg	6:aux:neg	=NEG
+8	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 12-amc-candy
+# oracion = Inesmun jan tapazannohax yamarizxohnu, jan vunumun jan potavahinxohki.
+# trs_spa = Inés desapareció de su casa, abandonó a su esposo.
+1	Ines	_	NOUN	_	_	7	nsubj	7:nsubj	Inés
+2	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+3	jan	_	DET	_	_	4	det	4:det	3SG.POS
+4	tapaz	_	NOUN	_	_	7	obl	7:obl	casa
+5	=n	_	PART	_	_	4	case	4:case	=OBL
+6	=nohax	_	PART	_	_	7	case	7:case	=ABL
+7	yamariz	_	VERB	_	_	0	root	0:root	desaparecer
+8	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	,	_	PUNCT	_	_	7	punct	_	_
+11	jan	_	DET	_	_	12	det	12:det	3SG.POS
+12	vunu	_	NOUN	_	_	15	obj	15:obj	esposo
+13	=mun	_	PART	_	_	15	aux:valid	15:aux:valid	=REPORT
+14	jan	_	PRON	_	_	15	nsubj	15:nsubj	3SG
+15	pota	_	VERB	_	_	0	root	0:root	abandonar
+16	=vahin	_	PART	_	_	15	aux:ir	15:aux:ir	ir.TRAN
+17	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+18	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+19	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 13-amc-candy
+# oracion = Yoma nanumun noku Benjamín inanxohnu.
+# trs_spa = Benjamín nos regaló pescado ahumado.
+1	yoma	_	NOUN	_	_	6	obj	6:obj	pescado
+2	nanu	_	ADJ	_	_	1	amod	1:amod	ahumado
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	noku	_	PRON	_	_	6	obj	6:obj	1PL
+5	Benjamin	_	NOUN	_	_	6	nsubj	6:nsubj	Benjamin
+6	inan	_	VERB	_	_	0	root	0:root	dar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 16-amc-candy
+# oracion = Min inanmun Roberto joojoohxohnu.
+# trs_spa = Tu perro le ladró a Roberto.
+1	min	_	DET	_	_	2	det	2:det	2SG.POS
+2	ina	_	NOUN	_	_	6	nsubj	6:nsubj	perro
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+5	Roberto	_	NOUN	_	_	6	obj	6:obj	Roberto
+6	jojo	_	VERB	_	_	0	root	0:root	ladrar
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 18-amc-candy
+# oracion = Guillermonmun iya kochi maroyanxohnu.
+# trs_spa =  Guillermo me vendió un chancho.
+1	Guillermo	_	PROPN	_	_	6	det	6:det	Guillermo
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	iya	_	PRON	_	_	6	obj	6:obj	1SG
+5	kochi	nan	NOUN	nan	nan	6	obj	6:obj	cerdo
+6	maro	_	VERB	_	_	0	root	0:root	vender
+7	=yan	_	PART	_	_	6	aux:n.pst	6:aux:n.pst	=NEAR.PST
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 19-amc-candy
+# oracion = Fidelmun iya kochi maronxohnu, iya nuvuhramun jan kaxohki.
+# trs_spa = Fidel vendió mi chancho y se fue dejándome atrás.
+1	Guillermo	_	PROPN	_	_	6	det	6:det	Guillermo
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	iya	_	PRON	_	_	6	obj	6:obj	1SG
+5	kochi	nan	NOUN	nan	nan	6	obj	6:obj	cerdo
+6	maro	_	VERB	_	_	0	root	0:root	vender
+7	=yan	_	PART	_	_	6	aux:n.pst	6:aux:n.pst	=NEAR.PST
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 21-amc-candy
+# oracion = Iya kutaxmamun Fidel chirinxohnu.
+# trs_spa = Fidel bailó al lado mío. 
+1	iya 	_	PRON	_	_	5	obl	5:obl	1SG
+2	kutaxma	nan	ADP	nan	nan	1	case	1:case	a.lado
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	Fidel	_	PROPN	_	_	5	nsubj	5:nsubj	Fidel
+5	chirin	_	VERB	_	_	0	root	0:root	bailar
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+# sent_id = 23-amc-candy
+# oracion = Magdalenanmun iya nonti vinakihinxohnu.
+# trs_spa = Magdalena me ayudó a remar.
+1	Magdalena	_	PROPN	_	_	6	nsubj	6:nsubj	Magdalena
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	iya 	_	PRON	_	_	6	obj	6:obj	1SG
+5	nonti	_	NOUN	_	_	6	obj	6:obj	canoa
+6	vina	_	VERB	_	_	0	root	0:root	remar
+7	=kihin	_	PART	_	_	6	aux:asoc	6:aux:asoc	=ASOC
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 25-amc-candy
+# oracion = Upanmun iya un vaku joni puxkokihinnihxohnu.
+# trs_spa =  Mi padre me ayudó a criar a mi hijo.
+1	upa	_	NOUN	_	_	8	obj	8:obj	padre
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+4	iya 	_	PRON	_	_	8	obj	8:obj	1SG
+5	un	_	DET	_	_	6	det	6:det	1SG.POS
+6	vaku	nan	NOUN	nan	nan	8	obj	8:obj	hijo
+7	joni	_	NOUN	_	_	6	nmod	6:nmod	hombre
+8	puxko	_	VERB	_	_	0	root	0:root	criar
+9	=kihin	_	PART	_	_	8	aux:asoc	8:aux:asoc	=ASOC
+10	=ni	_	PART	_	_	8	aux:rem.pst	8:aux:rem.pst	=REM.PST
+11	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+12	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=REPORT
+13	.	_	PUNCT	_	_	8	punct	_	_
+# sent_id = 26-amc-candy
+# oracion = Jaxmun jan oxatinin oxaxohnu.
+# trs_spa = Él durmió en la cama.
+1	ja	_	PRON	_	_	7	nsubj	7:nsubj	3SG
+2	=x	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	jan	_	PRON	_	_	7	nsubj:copy	7:nsubj:copy	3SG.NOM
+5	oxati	nan	NOUN	nan	nan	7	obl	7:obl	cama
+6	=nin	_	PART	_	_	5	case	5:case	=LOC
+7	oxa	_	VERB	_	_	0	root	0:root	dormir
+8	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 27-amc-candy
+# oracion = Jii taponmun mishkiti sharaahnu.
+# trs_spa = La raíz de la planta es útil para pescar.
+1	jii	_	NOUN	_	_	2	nmod	2:nmod	árbol
+2	tapon	_	NOUN	_	_	6	nsubj	6:nsubj	raíz
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	mishki	_	VERB	_	_	6	advcl	6:advcl	anzuelear
+5	=ti	_	PART	_	_	4	aux:nmlz	4:aux:nmlz	=NMLZ
+6	sharaa	_	ADJ	_	_	0	root	0:root	útil
+7	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+8	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 28-amc-candy
+# oracion = Jiinnohaxmun xuna Emeritaki pakuuxohnu.
+# trs_spa =  El gusano se cayó del árbol sobre Emérita.
+1	jii	_	NOUN	_	_	7	obl	7:obl	árbol
+2	=nohax	_	PART	_	_	1	case	1:case	=ABL
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+4	xuna	_	NOUN	_	_	7	nsubj	7:nsubj	gusano
+5	Emerita	_	PROPN	_	_	7	obl	7:obl	Emérita
+6	=ki	_	PART	_	_	5	case	5:case	=OBL
+7	pakuu	_	VERB	_	_	0	root	0:root	caer
+8	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 29-amc-candy
+# oracion = Vai papiikunhamun un rono vuchikuhnu.
+# trs_spa = Encontré una serpiente en el canto (a la orilla) de la chacra.
+1	vai	_	NOUN	_	_	2	nmod	2:nmod	chacra
+2	papiikun	_	NOUN	_	_	7	obl	7:obl	borde
+3	=ha	_	PART	_	_	2	case	2:case	=LOC
+4	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+5	un	_	DET	_	_	7	nsubj	7:nsubj	1SG
+6	rono	nan	NOUN	nan	nan	7	obj	7:obj	serpiente
+7	vuchi	_	VERB	_	_	0	root	0:root	encontrar
+8	=ku	_	PART	_	_	7	aux:pst.1/2	7:aux:pst.1/2	=PST.1/2
+9	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+10	.	_	PUNCT	_	_	7	punct	_	_
+# sent_id = 31-amc-candy
+# oracion = Un vununmun iya nihimuran iyoxohnu.
+# trs_spa = Mi esposo me llevó al monte. 
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	vunu	_	NOUN	_	_	8	nsubj	8:nsubj	esposo
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+5	iya 	_	PRON	_	_	8	obj	8:obj	1SG
+6	nihi 	_ 	NOUN 	_ 	_ 	8	obl:loc 	8:obl:loc 	monte
+7	=muran	_	ADP 	_ 	_ 	6	case	6:case	=INESSIVE
+8	iyo	_	VERB	_	_	0	root	0:root	llevar
+9	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+11	.	_	PUNCT	_	_	8	punct	_	_
+# sent_id = 32-amc-candy
+# oracion = Un vava maxkomun iya oxaxonxohnu.
+# trs_spa =  Mi pequeño nieto ya se me durmió / se durmió para mi beneficio.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	vava	_	NOUN	_	_	6	nsubj	6:nsubj	nieto
+3	maxko	_	NOUN	_	_	2	nmod	2:nmod	pequeño
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	iya 	_	PRON	_	_	6	obj	6:obj	1SG
+6	oxa	_	VERB	_	_	0	root	0:root	dormir
+7	=xon	_	PART	_	_	6	aux:ben	6:aux:ben	=BEN
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 33-amc-candy
+# oracion = Eleuteriomun iya naxonxohnu.
+# trs_spa = Eleuterio se me murió / murió para mi desgracia.
+1	Eleuterio	_	PROPN	_	_	2	nsubj	2:nsubj	Eleuterio
+2	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+3	iya 	_	PRON	_	_	6	obj	6:obj	1SG
+4	na	_	VERB	_	_	0	root	0:root	morir
+5	=xon	_	PART	_	_	6	aux:mal	6:aux:mal	=MAL
+6	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+8	.	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 34-amc-candy
+# oracion = Nan naamun yonooxoni unhkanu.
+# trs_spa = Estoy trabajando para este mestizo.
+1	nan	_	DET	_	_	2	det	2:det	este
+2	naa	_	NOUN	_	_	4	obl	4:obl	mestizo
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	yonoo	_	VERB	_	_	0	root	0:root	trabajar
+5	=xon	_	PART	_	_	4	aux:ben	4:aux:ben	=BEN
+6	=ni	_	PART	_	_	4	aux:rem.pst	4:aux:rem.pst	=REM.PST
+7	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG
+8	=ka	_	PART	_	_	4	aux:act.1	4:aux:act.1	=ACT.1
+9	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+10	.	_	PUNCT	_	_	4	punct	_	_
+# sent_id = 36-amc-candy
+# oracion = Kuzanonra min iya uha kohanha?
+# trs_spa = ¿Por qué quemaste a mi madre?
+1	kuzanon	_	ADV	_	_	6	adv	6:adv	por.qué
+2	=ra	_	PART	_	_	6	aux:valid.int	6:aux:valid.int	=INT
+3	min	_	PRON	_	_	6	nsubj	6:nsubj	2SG
+4	iya 	_	DET	_	_	6	nan	6:	1SG
+5	uha	_	NOUN	_	_	6	obj	6:obj	mi.madre
+6	koha	_	VERB	_	_	0	root	0:root	quemar
+7	-n	_	PART	_	_	6	aux:trnz	6:aux:trnz	-TRNZ
+8	=ha	_	PART	_	_	6	aux:prev.o>s	6:aux:prev.o>s	=PREV.O>S
+9	?	_	PUNCT	_	_	6	punct	_	_
+# sent_id = 37-amc-candy
+# oracion = Miha xuni karo xatuxontanpu.
+# trs_spa = Corta leña para tu abuelita.
+1	miha	_	NOUN	_	_	2	nmod	2:nmod	tu.madre
+2	xuni	_	NOUN	_	_	4	obj	4:obj	abuela
+3	karo	_	NOUN	_	_	4	obj	4:obj	leña
+4	xatu	_	VERB	_	_	0	root	0:root	cortar
+5	=xon	_	PART	_	_	4	aux:ben	4:aux:ben	=BEN
+6	=tan	_	PART	_	_	4	aux:inm.dps	4:aux:inm.dps	=INM.DESP.SI
+7	=pu	_	PART	_	_	4	aux:voc.m	4:aux:voc.m	=VOC.M
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 44-amc-candy
+# oracion = Kanonmun un Yurimaguan kayankuhnu.
+# trs_spa = Entonces me fui a Yurimaguas.
+1	kanon	_	ADV	_	_	6	advmod	6:advmod	entonces
+2	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+3	un	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+4	Yurimagua	_	PROPN	_	_	6	obl	6:obl	Yurimaguas
+5	=n	_	PART	_	_	4	case	4:case	=OBL
+6	ka	_	VERB	_	_	0	root	0:root	ir
+7	=yan	_	PART	_	_	6	aux:n.pst	6:aux:n.pst	=NEAR.PST
+8	=ku	_	PART	_	_	6	aux:pst	6:aux:pst	=PST.1/2
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 45-amc-candy
+# oracion = Janmun jan kuntii nachooxohnu.
+# trs_spa = Ella lavó la olla.
+1	ja	_	PRON	_	_	5	nsubj	5:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=REPORT
+4	kuntii	_	ADV	_	_	5	obj	5:obj	olla
+5	nachoo	_	NOUN	_	_	0	root	0:root	lavar.platos
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 46-amc-candy
+# oracion = Iyanmun un Carlota nami inankuhnu.
+# trs_spa = Yo le di carne a Carlota.
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	Carlota	_	PROPN	_	_	6	obj	6:obj	Carlota
+5	nami	nan	NOUN	nan	nan	6	obj	6:obj	carne
+6	inan	_	VERB	_	_	0	root	0:root	dar
+7	=ku	_	PART	_	_	6	aux:pst.1/2	6:aux:pst.1/2	=PST.1/2
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 47-amc-candy
+# oracion = Iyamun un shiwilu xanokovinhnu.
+# trs_spa = Yo soy una mujer Shiwilu auténtica.
+1	iya	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+2	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=REPORT
+3	un	_	PRON	_	_	5	nsubj:copy	7:nsubj:copy	1SG.NOM
+4	shiwilu	nan	NOUN	nan	nan	5	nmod	5:nmod	shiwilu
+5	xano	_	VERB	_	_	0	root	0:root	mujer
+6	=kovin	_	PART	_	_	5	aux:verdad	5:aux:verdad	=VERDADERO
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1-amc-candy
+# oracion = Inax ruzoovahinkun.
+# trs_spa = Los perros se habían ido adelante
+1	ina	_	NOUN	_	_	3	nsubj	3:nsubj	1SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	ruzo	_	NOUN	_	_	0	root	0:root	cabecera
+4	=vahin	_	PART	_	_	3	aux:prev.sd	3:aux:prev.sd	=PREV.SD
+5	=kun	_	PART	_	_	3	aux:pst	3:aux:pst	=PST.1/2
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2-amc-candy
+# oracion = Nokun kaivo nahaxmun nokookihnu.
+# trs_spa = Llegaron muchos de nuestros paisanos.
+1	nokun	_	DET	_	_	1	det	1:det	1POSS.PL
+2	kaivo	nan	NOUN	_	_	4	nsubj	4:nsubj	paisanos
+3	naha	_	ADJ	_	_	2	amod	2:amod	muchos
+4	=x	_	PART	_	_	2	case	2:case	=S
+5	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+6	nokoo	_	VERB	_	_	0	root	0:root	llegar
+7	=ki	_	PART	_	_	6	aux:pres.2/3	6:aux:pres.2/3	=PRES.2/3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3-amc-candy
+# oracion = Jorgemun nokun kaivohnu.
+# trs_spa =  Jorge es nuestro paisano.
+1	Jorge	_	PROPN	_	_	4	nsubj	4:nsubj	Jorge
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+3	nokun	_	DET	_	_	4	det	4:det	1POSS.PL
+4	kaivo	nan	NOUN	_	_	0	root	0:root	paisanos
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4-amc-candy
+# oracion = Vutza vaku jonin janumun Juahnu.
+# trs_spa = El nombre del otro hijo era Juan.
+1	vutza	_	ADJ	_	_	2	amod	2:amod	otro
+2	vaku	_	NOUN	_	_	4	obl	4:obl	hijo
+3	joni	_	NOUN	_	_	2	nmod	2:nmod	hombre
+4	=n	_	PART	_	_	2	case	2:case	=GEN
+5	janu	_	NOUN	_	_	7	nsubj	7:nsubj	nombre
+6	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+7	Juan	_	PROPN	_	_	0	root	0:root	Juan
+8	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+9	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 6-amc-candy
+# oracion = Naha vakuyamun uhahnu.
+# trs_spa = Mi mamá tiene muchos hijos.
+1	naha	_	ADJ	_	_	2	amod	2:amod	muchos
+2	vaku	_	NOUN	_	_	0	root	0:root	hijos
+3	=ya	_	PART	_	_	2	case	2:case	=PROP
+4	=mun	_	PART	_	_	2	aux:valid	2:aux:valid	=FOC
+5	uha	_	PROPN	_	_	2	nsubj	2:nsubj	Juan
+6	=nu	_	PART	_	_	2	aux:decl	2:aux:decl	=DECL
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7-amc-candy
+# oracion = Jan ainimun xuki runuxohnu.
+# trs_spa = Su esposa molió maíz.
+1	jan	_	DET	_	_	2	det	2:det	3SG.POSS
+2	ain	_	NOUN	_	_	6	nsubj	6:nsubj	mujer
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+5	xuki	_	NOUN	_	_	6	obj	6:obj	maíz
+6	runu	_	VERB	_	_	0	root	0:root	moler
+7	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+9	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 18-amc-candy
+# oracion = Jan ainyamun johi apohkinu.
+# trs_spa = El curaca viene con su esposa.
+1	jan	_	DET	_	_	2	det	2:det	3SG.POSS
+2	ain	_	NOUN	_	_	5	obl	5:obl	mujer
+3	=ya	_	PART	_	_	2	case	2:case	=CONM
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	jo	_	VERB	_	_	0	root	0:root	dar
+6	=hi	_	PART	_	_	5	aux:sim.sa>s	5:aux:sim.sa>s	=SIM.S.A>S
+7	apo	_	NOUN	_	_	5	nsubj	5:nsubj	maíz
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 22-amc-candy
+# oracion = Yoshininmun jan vaku xuhanpaixohnu.
+# trs_spa = El dragón quería tragar a su bebé.
+1	yoshin	_	NOUN	_	_	6	nsubj	6:nsubj	dragón
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jan	_	DET	_	_	5	det	5:det	3SG.POSS
+5	vaku	_	NOUN	_	_	6	obj	6:obj	hijo
+6	xuha	_	VERB	_	_	0	root	0:root	comer
+7	=pai	_	PART	_	_	6	aux:des	6:aux:des	=DES
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 23-amc-candy
+# oracion = Kuntiimun kiniyahnu, vakomamun jahon tozookatzikiki.
+# trs_spa = La olla tiene hueco y el agua va a gotear.
+1	kuntii	_	NOUN	_	_	3	nsubj	3:nsubj	olla.S
+2	=mun	_	PART	_	_	3	aux:decl	3:aux:decl	=FOC
+3	kini	_	NOUN	_	_	0	root	0:root	hueco
+4	=ya	_	PART	_	_	3	case	3:case	=PROP
+5	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+6	,	_	PUNCT	_	_	10	cc	10:cc	_
+7	vakohma	_	NOUN	_	_	10	nsubj	10:nsubj	agua
+8	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+9	jahon	_	ADV	_	_	10	advmod	10:advmod	allá
+10	tozoo	_	VERB	_	_	3	conj	3:conj	gotear
+11	=ki	_	PART	_	_	10	aux:act.2/3	10:aux:act.2/3	=ACT.2/3
+12	=ki	_	PART	_	_	10	aux:decl	10:aux:decl	=DECL
+13	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 28-amc-candy
+# oracion = Jarimun naha jokonhi xachihkinu.
+# trs_spa = Allí crecía bastante hierba.
+1	jari	_	ADV	_	_	4	advmod	4:advmod	allí
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+3	naha	_	ADJ	_	_	6	amod	6:amod	muchos
+4	jokon	_	VERB	_	_	0	root	0:root	salir.PL
+5	=hi	_	PART	_	_	4	aux:sim.sa>s	4:aux:sim.sa>s	=SIM.S.A>S
+6	xachi	_	NOUN	_	_	4	nsubj	4:nsubj	hierba
+7	=ki	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 29-amc-candy
+# oracion = Janmun vaku mukayovaahi janhkinu.
+# trs_spa = Él está riéndose mucho de su bebé.
+1	ja	_	PRON	_	_	5	nsubj	5:nsubj	3SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	vaku	_	NOUN	_	_	5	obj	5:obj	bebé.O
+5	muka	_	VERB	_	_	0	root	0:root	reir
+6	=yovaa	_	PART	_	_	5	aux:muy	5:aux:muy	=MUY
+7	=hi	_	PART	_	_	5	aux:sim.sa>s	5:aux:sim.sa>s	=SIM.S.A>S
+8	jan	_	PRON	_	_	5	nsubj:copy	5:nsubj:copy	3SG.NOM
+9	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+10	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+11	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 30-amc-candy
+# oracion = Jaa rahonmun vakuvo matzi votomaxohnu.
+# trs_spa = La pastilla hizo bajar la fiebre al bebé.
+1	jaa	_	DET	_	_	2	det	2:det	esa
+2	raho	_	NOUN	_	_	7	nsubj	7:nsubj	pastilla
+3	=n	_	PART	_	_	2	case	2:case	=A
+4	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+5	vakuvo	_	NOUN	_	_	7	obj	7:obj	bebé.O
+6	matzi	_	ADJ	_	_	7	compound	7:compound	frío
+7	voto	_	VERB	_	_	0	root	0:root	bajar
+8	=ma	_	PART	_	_	7	aux:caus	7:aux:caus	=CAUS
+9	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 44-amc-candy
+# oracion = Jan chahiyaakun pishamun jan potanxohnu.
+# trs_spa = Botó la bolsa de su cuñado.
+1	jan	_	DET	_	_	2	det	2:det	3SG.POSS
+2	chahiyaakun	_	NOUN	_	_	3	nmod	3:nmod	cuñado
+3	pisha	_	NOUN	_	_	7	obj	7:obj	bolsa.O
+4	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+5	ja	_	PRON	_	_	7	nsubj	7:nsubj	3SG
+6	=n	_	PART	_	_	5	case	5:case	=A
+7	pota	_	VERB	_	_	0	root	0:root	reir
+8	-n	_	PART	_	_	7	aux:TRNZ	7:aux:TRNZ	-TRNZ
+9	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 48-amc-candy
+# oracion = Atapananmun noku vamamahikinu.
+# trs_spa = La gallina nos molesta.
+1	atapa	_	NOUN	_	_	5	nsubj	5:nsubj	gallina
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	noku	_	PRON	_	_	5	obj	5:obj	3PL.O
+5	vama	_	VERB	_	_	0	root	0:root	espantar
+6	=ma	_	PART	_	_	5	aux:caus	5:aux:caus	=CAUS
+7	=hi	_	PART	_	_	5	aux:sim.sa>s	5:aux:sim.sa>s	=SIM.S.A>S
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 48-amc-candy
+# oracion = Iyanmun mato jiriti inanhi unhkanukanpu.
+# trs_spa = Yo les doy comida a ustedes.
+1	iya	_	PRON	_	_	6	nsubj	6:nsubj	1SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=REPORT
+4	mato	_	PROPN	_	_	6	obj	6:obj	2PL
+5	jiriti	nan	NOUN	nan	nan	6	obj	6:obj	comida
+6	inan	_	VERB	_	_	0	root	0:root	dar
+7	=hi	_	PART	_	_	6	aux:sim.sa>s	6:aux:sim.sa>s	=SIM.S.A>S
+8	un	_	PRON	_	_	6	nsubj:copy	6:nsubj:copy	1SG.NOM
+9	=ka	_	PART	_	_	6	aux:act.1	6:aux:act.1	=ACT.1
+10	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+11	=kan	_	PART	_	_	6	aux:pl	6:aux:pl	=PL
+12	=pu	_	PART	_	_	6	aux:voc.m	6:aux:voc.m	=VOC.M
+13	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 49-amc-candy
+# oracion = ¿kuzanonrama iya mukaha?
+# trs_spa =  ¿Por qué se rieron de mí?
+1	kuzanon	_	ADV	_	_	4	adv	4:adv	por.qué
+2	=ra	_	PART	_	_	4	aux:valid.int	4:aux:valid.int	=INT
+3	iya 	_	DET	_	_	4	obj	4:obj	1SG.O
+4	muka	_	VERB	_	_	0	root	0:root	reirse
+5	=ha	_	PART	_	_	4	aux:prev.o>s	4:aux:prev.o>s	=PREV.O>S
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 50-amc-candy
+# oracion = Kanonmun noku upan unaa kuunyamanixohki.
+# trs_spa = Pero mi padre ya no nos quería más.
+1	kanon	_	ADV	_	_	7	advmod	7:advmod	entonces
+2	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+3	noku	_	PRON	_	_	7	obj	7:obj	1PL
+4	upa	_	NOUN	_	_	7	nsubj	7:nsubj	padre
+5	=n	_	PART	_	_	4	case	4:case	=A
+6	unaa	_	ADV	_	_	7	advmod	7:advmod	otra.vez
+7	kuun	_	VERB	_	_	0	root	0:root	querer
+8	=yama	_	PART	_	_	7	aux:neg	7:aux:neg	=NEG
+9	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+10	=ki	_	PART	_	_	7	aux:act.2/3	7:aux:act.2/3	=ACT.2/3
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 52-amc-candy
+# oracion = Oxaxomun noku jaton kunakantaihnu.
+# trs_spa = Mientras estábamos durmiendo, ellos nos llamaron.
+1	oxa	_	VERB	_	_	7	advcl	7:advcl	dormir
+2	=xo	_	PART	_	_	2	aux.prev.s>o	2:aux.prev.s>o	=PREV.S>O
+3	=mun	_	PART	_	_	7	aux:valid	5:aux:valid	=FOC
+4	noku	_	PRON	_	_	1	nsubj	1:nsubj	1PL.S
+5	jato	_	PRON	_	_	7	nsubj	7:nsubj	3PL
+6	=n	_	PART	_	_	5	case	5:case	=A
+7	kuna	_	VERB	_	_	0	root	0:root	llamar
+8	=kan	_	PART	_	_	7	aux:pl	7:aux:pl	=PL
+9	=tai	_	PART	_	_	7	aux:y.pst	7:aux:y.pst	=YEAR.PST
+10	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 53-amc-candy
+# oracion = Jesusinmun janzin pinixohnu.
+# trs_spa = Jesús se comió al paujil.
+1	Jesus	_	PROPN	_	_	5	nsubj	5:nsubj	Jesus
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=REPORT
+4	janzin	_	NOUN	_	_	5	obj	5:obj	paujil
+5	pi	_	VERB	_	_	0	root	0:root	comer
+6	=ni	_	PART	_	_	5	aux:rem.pst	5:aux:rem.pst	=REM.PST
+7	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+8	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+9	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 55-amc-candy
+# oracion = Meneleonmun Emerita mutzoohxohnu.
+# trs_spa = Meneleo besó la mano de Emérita.
+1	Meneleo	_	PROPN	_	_	5	nsubj	5:nsubj	Jesus
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=REPORT
+4	Emerita	_	PROPN	_	_	5	obj	5:obj	paujil
+5	mutzoo	_	VERB	_	_	0	root	0:root	comer
+6	=xo	_	PART	_	_	5	aux:pst.3	5:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+8	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 56-amc-candy
+# oracion = Valentinmun Jesus yonooxonnixohnu.
+# trs_spa = Valentín trabajó para Jesús.
+1	Valentin	_	PROPN	_	_	4	nsubj	4:nsubj	Valentin
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+3	Jesus	_	PROPN	_	_	4	obj	4:obj	Jesus
+4	yonoo	_	VERB	_	_	0	root	0:root	trabajar
+5	=xon	_	PART	_	_	4	aux:ben	4:aux:ben	=BEN
+6	=xo	_	PART	_	_	4	aux:pst.3	4:aux:pst.3	=PST.3
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 57-amc-candy
+# oracion = Yoshinnin jaa iyohamamunhnu.
+# trs_spa = El diablo no se lo llevó a él.
+1	yoshin	_	NOUN 	_	_	4	nsubj	4:nsubj	diablo
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	jaa	_	PRON	_	_	4	obj	4:obj	3SG
+4	iyo	_	VERB	_	_	0	root	0:root	llevar
+5	=hama	_	PART	_	_	4	aux:neg	4:aux:neg	=NEG
+6	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+7	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1-amc-candy
+# oracion = Jahamun un iinyankuhnu.
+# trs_spa = Vi a su mamá de él. 
+1	jaha	_	VERB	_	_	3	obj	3:obj	su.madre
+2	=mun	_	PART	_	_	3	aux:valid	3:aux:valid	=REPORT
+3	iin	_	NOUN	_	_	0	root	0:root	ver
+4	=yan	_	PART	_	_	3	aux:pst1	3:aux:pst1	=hace.un.mes
+5	=ku	nan	PART	_	_	3	aux:pst	3:aux:pst	=PST.1/2
+6	=nu	_	PART	_	_	3	aux:decl	3:aux:decl	=DECL
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4-amc-candy
+# oracion = Un vunumun jasharahikinu.
+# trs_spa = Mi esposo está feliz.
+1	un	_	DET	_	_	2	det	2:det	1SG.POS
+2	vunu	_	NOUN	_	_	4	subj	4:subj	esposo
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+4	ja	_	VERB	_	_	0	root	0:root	estar
+5	=shara	_	PART	_	_	4	aux:bien	4:aux:bien	=BIEN
+6	=hi	_	PART	_	_	4	aux:ipfv	4:aux:ipfv	=IPFV
+7	=ki	_	PART	_	_	4	aux:pres.2/3	4:aux:pres.2/3	=PRES.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6-amc-candy
+# oracion = Inoztiimun inhi unhkanu.
+# trs_spa = Yo veo un perro.
+1	ino	_	NOUN	_	_	4	obj	4:obj	perro.O
+2	=zti	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	iin	_	VERB	_	_	0	root	0:root	ver
+5	=hi	_	PART	_	_	4	aux:sim.sa>s	4:aux:sim.sa>s	=SIM.S.A>S
+6	un	_	PRON	_	_	4	nsubj	4:nsubj	1SG
+7	=ka	_	PART	_	_	4	aux:act.1	4:aux:act.1	=ACT.1
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7-amc-candy
+# oracion = Jau payokaramun inhi unhkanu.
+# trs_spa = Yo veo algo podrido. 
+1	jau	_	DET	_	_	2	det	2:det	algo
+2	payo	_	ADJ	_	_	4	obj	4:obj	podrido.O
+3	=kara	_	PART	_	_	5	aux:infer	5:aux:infer	=INFER
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+5	iin	_	VERB	_	_	0	root	0:root	ver
+6	=hi	_	PART	_	_	5	aux:sim.sa>s	5:aux:sim.sa>s	=SIM.S.A>S
+7	un	_	PRON	_	_	5	nsubj	5:nsubj	1SG
+8	=ka	_	PART	_	_	5	aux:act.1	5:aux:act.1	=ACT.1
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9-amc-candy
+# oracion = Inanhankaramun iya un ain pihannikoxohnu.
+# trs_spa = Parece que un tigre/jaguar ha matado a mi pobre esposa.
+1	inanha	_	NOUN	_	_	7	nsubj	7:nsubj	tigre
+2	=kara	_	PART	_	_	7	aux:infer	7:aux:infer	=INFER
+3	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=REPORT
+4	iya	_	PRON	_	_	7	obj	7:obj	1SG.O
+5	un	_	DET	_	_	6	det	6:det	1SG.POSS
+6	ain	_	NOUN	_	_	7	obj	7:obj	mujer.O
+7	pi	_	VERB	_	_	0	root	0:root	comer
+8	=han	_	PART	_	_	7	aux:malf	7:aux:malf	=MALF
+9	=niko	_	PART	_	_	7	discourse	1:discourse	=DEAR
+10	=xo	_	PART	_	_	7	aux:pst.3	7:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	7	aux:decl	7:aux:decl	=DECL
+12	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10-amc-candy
+# oracion = Yohihi kankihnu jan vuchihamamunkiha janhki.
+# trs_spa = Dicen que él no la encontró
+1	yohi	_	VERB	_	_	7	advcl	7:advcl	decir
+2	=hi	_	PART	_	_	1	aux:sim.sa>s	1:aux:sim.sa>s	=SIM.S.A>S
+3	=kan	_	PART	_	_	1	aux:pl	1:aux:pl	=PL
+4	=ki	_	PART	_	_	1	aux:act.2/3	1:aux:act.2/3	=ACT.2/3
+5	=nu	_	PART	_	_	1	aux:decl	1:aux:decl	=DECL
+6	jan	_	PRON	_	_	4	obj	4:obj	3SG.O
+7	vuchi	_	VERB	_	_	0	root	0:root	encontrar
+8	=hama	_	PART	_	_	7	aux:neg	7:aux:neg	=NEG
+9	=mun	_	PART	_	_	7	aux:valid	7:aux:valid	=FOC
+10	=kiha	_	PART	_	_	7	aux:valid.report	7:aux:valid.report	=REPORT
+11	jan	_	PRON	_	_	7	nsubj	7:nsubj	3SG.NOM
+12	=ki	_	PART	_	_	7	aux:pres.2/3	7:aux:pres.2/3	=PRES.2/3
+13	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 12-amc-candy
+# oracion = Yohihavo jatoxmunkiha jari votankanxohnu.
+# trs_spa = Dicen que luego ellos fueron ahí.
+1	yohi	_	VERB	_	_	7	advcl	7:advcl	decir
+2	=havo	_	PART	_	_	1	aux:prev.sd.pl	1:aux:prev.sd.pl	=PREV.SD.PL
+3	jato	_	PRON	_	_	4	nsubj	4:nsubj	3SG
+4	=x	_	PART	_	_	2	case	2:case	=S
+5	=mun	_	PART	_	_	8	aux:valid	8:aux:valid	=FOC
+6	=kiha	_	PART	_	_	8	aux:valid.report	8:aux:valid.report	=REPORT
+7	jari	_	ADV	_	_	4	advmod	4:advmod	allá
+8	votan	_	VERB	_	_	0	root	0:root	ir
+9	=kan	_	PART	_	_	8	aux:pl	8:aux:pl	=PL
+10	=xo	_	PART	_	_	8	aux:pst.3	8:aux:pst.3	=PST.3
+11	=nu	_	PART	_	_	8	aux:decl	8:aux:decl	=DECL
+12	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 13-amc-candy
+# oracion = Miyanmun anox minhkinu.
+# trs_spa = Tú lo comes.
+1	miya	_	PRON	_	_	4	nsubj	4:nsubj	2SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=REPORT
+4	a	_	VERB	_	_	0	root	0:root	comer
+5	=nox	_	PART	_	_	4	aux:hab	4:aux:hab	=HAB
+6	min	_	PRON	_	_	4	nsubj.copy	4:nsubj.copy	2SG.NOM
+7	=ki	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14-amc-candy
+# oracion = Nokunrivimun anox nonhkanu.
+# trs_spa =  También la comimos.
+1	noku	_	PRON	_	_	5	nsubj	5:nsubj	2SG
+2	=n	_	PART	_	_	2	case	2:case	=A
+3	=rivi	_	PART	_	_	5	aux:also	5:aux:also	=ALSO
+4	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=REPORT
+5	a	_	VERB	_	_	0	root	0:root	comer
+6	=nox	_	PART	_	_	5	aux:hab	5:aux:hab	=HAB
+7	non	_	PRON	_	_	5	nsubj.copy	5:nsubj.copy	1PL.NOM
+8	=ka	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15-amc-candy
+# oracion = Iyaxmun oxahi unhkanu.
+# trs_spa = Yo duermo.
+1	iya	_	PRON	_	_	4	nsubj	4:nsubj	1SG
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+4	oxa	_	VERB	_	_	0	root	0:root	dormir
+5	=hi	_	PART	_	_	4	aux:sim.sa>s	4:aux:sim.sa>s	=SIM.S.A>S
+6	un	_	PRON	_	_	4	nsubj.copy	4:nsubj.copy	1SG.NOM
+7	=ka	_	PART	_	_	4	aux:act.2/3	4:aux:act.2/3	=ACT.2/3
+8	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16-amc-candy
+# oracion = Jatoxmun jiin inikanxohnu.
+# trs_spa = Ellos treparon un árbol.
+1	jato	_	PRON	_	_	6	nsubj	6:nsubj	3PL
+2	=x	_	PART	_	_	1	case	1:case	=S
+3	=mun	_	PART	_	_	6	aux:valid	6:aux:valid	=FOC
+4	jii	_	NOUN	_	_	6	obl	6:obl	árbol
+5	=n	_	PART	_	_	4	case	4:case	=LOC
+6	ini	_	VERB	_	_	0	root	0:root	trepar
+7	=kan	_	PART	_	_	6	aux:pl	6:aux:pl	=PL
+8	=xo	_	PART	_	_	6	aux:pst.3	6:aux:pst.3	=PST.3
+9	=nu	_	PART	_	_	6	aux:decl	6:aux:decl	=DECL
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 18-amc-candy
+# oracion = Nanmun un tapaznu.
+# trs_spa = Esta es mi casa.
+1	nan	_	DET	_	_	4	det	4:det	este
+2	=mun	_	PART	_	_	4	aux:valid	4:aux:valid	=FOC
+3	un	_	DET	_	_	4	det	4:det	1SG.POSS
+4	tapaz	_	NOUN	_	_	0	root	0:root	casa
+5	=nu	_	PART	_	_	4	aux:decl	4:aux:decl	=DECL
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25-amc-candy
+# oracion = Miyanmun nan axanhkin minhkinupu.
+# trs_spa = Tú comerás esto.
+1	miya	_	PRON	_	_	5	nsubj	5:nsubj	2SG
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	=mun	_	PART	_	_	5	aux:valid	5:aux:valid	=FOC
+4	nan	_	DET	_	_	5	obj	5:obj	este
+5	a	_	VERB	_	_	0	root	0:root	comer
+6	=xanhkin	_	PART	_	_	5	aux:subs.s/a>a	5:aux:subs.s/a>a	=SUBS.S/A>A
+7	min	_	PRON	_	_	5	nsubj.copy	5:nsubj.copy	2SG.NOM
+8	=ki	_	PART	_	_	5	aux:act.2/3	5:aux:act.2/3	=ACT.2/3
+9	=nu	_	PART	_	_	5	aux:decl	5:aux:decl	=DECL
+10	=pu	_	PART	_	_	5	aux:voc.m	5:aux:voc.m	=VOC.M
+11	.	_	PUNCT	_	_	5	punct	_	_
